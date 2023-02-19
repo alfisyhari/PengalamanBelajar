@@ -1,5 +1,6 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku di Dicoding
+![belajar](https://user-images.githubusercontent.com/67992588/219952148-2e30cad6-bc12-4761-8a35-b65bac483ebb.jpg)
 
 - - -
 
