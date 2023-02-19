@@ -1,12 +1,12 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 
-Jum'at, 17 Februari 2023
+**Jum'at, 17 Februari 2023**
 Belajar Dasar Git dengan GitHub. (Progress 5%)
   * Persiapan Belajar, mengeksplorasi website dicoding sebagai alat pembelajaran.
   * Memahami glosarium atau kata yang akan terus muncul, serta melakukan research di Google.
 
-Sabtu, 18 Februari 2023
+**Sabtu, 18 Februari 2023**
 Belajar Dasar Git dengan Github. (Progress 12%)
   * Belajar apa itu Git & Github, alasan mengapa menggunakannya.
   * Mengetahui sejarah pembuatan Git & Github.
@@ -18,7 +18,7 @@ Belajar Dasar Git dengan Github. (Progress 12%)
   * Belajar mengenai pull request, issues, marketplace, explore, dan settings.
   * Belajar mengenai kolaborator dan kontributor.
  
-Ahad, 19 Februari 2023
+**Ahad, 19 Februari 2023**
 Belajar Dasar Git dengan Github. (Progress 38%)
   * Belajar membuat repository.
   * Belajar mengenai local dan remote repository.
