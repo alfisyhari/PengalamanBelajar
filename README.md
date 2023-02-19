@@ -1,6 +1,8 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 
+- - -
+
 **Jum'at, 17 Februari 2023**
 Belajar Dasar Git dengan GitHub. (Progress 5%)
   * Persiapan Belajar, mengeksplorasi website dicoding sebagai alat pembelajaran.
