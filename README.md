@@ -36,3 +36,10 @@ Belajar Dasar Git dengan Github. (Progress 48%)
   * Belajar membuat rangkuman studi kasus pengalaman belajar.
   * Belajar menggunakan dan mengeksplorasi bahasa markdown.
   * Mengerjakan quiz dengan hasil 100%.
+
+**Senin, 20 Februari 2023**
+Belajar Dasar Git dengan Github. (Progress 61%)
+  * Belajar lebih dalam tentang git branches, seperti perpindahan branch atau bisa disebut git checkout.
+  * Belajar lebih dalam tentang pull a request atau merge, menyatukan branches ke main atau master.
+  * Belajar lebih dalam bagaimana mengatasi conflict dengan melakukan praktek, 2 branches dengan isi file yang sama tidak bisa di merge, akhirnya harus memilih salah       satu code yang benar.
+  * Mengerjakan quiz dengan hasil 100%.
