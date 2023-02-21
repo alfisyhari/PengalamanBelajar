@@ -43,3 +43,10 @@ Belajar Dasar Git dengan Github. (Progress 61%)
   * Belajar lebih dalam tentang pull a request atau merge, menyatukan branches ke main atau master.
   * Belajar lebih dalam bagaimana mengatasi conflict dengan melakukan praktek, 2 branches dengan isi file yang sama tidak bisa di merge, akhirnya harus memilih salah       satu code yang benar.
   * Mengerjakan quiz dengan hasil 100%.
+
+**Selasa, 21 Februari 2023**
+Belajar Dasar Git dengan Github. (Progress 70%)
+  * Belajar lebih dalam tentang kolaborasi dengan tim, disini saya membuat akun baru github untuk melakukan praktek pull request untuk melakukan merge antara 2 file.
+  * Belajar lebih dalam tentang forking repository, disini saya masih menggunakan konsep yang sama seperti diatas, hasilnya saya bisa memahami konsep forking dengan       baik.
+  * Belajar lebih dalam tentang revert dan reset, masih menggunakan konsep yang sama seperti sebelumnya, saya bisa memahami bagaimana cara menggunakan revert dengan       baik.
+  * Belajar lebih dalam tentang squash and merge, rebase and merge, dan merge.
