@@ -50,3 +50,8 @@ Belajar Dasar Git dengan Github. (Progress 70%)
   * Belajar lebih dalam tentang forking repository, disini saya masih menggunakan konsep yang sama seperti diatas, hasilnya saya bisa memahami konsep forking dengan       baik.
   * Belajar lebih dalam tentang revert dan reset, masih menggunakan konsep yang sama seperti sebelumnya, saya bisa memahami bagaimana cara menggunakan revert dengan       baik.
   * Belajar lebih dalam tentang squash and merge, rebase and merge, dan merge.
+
+**Rabu, 22 Februari 2023**
+Belajar Dasar Git dengan Github. (Progress 74%)
+  * Belajar lebih dalam memahami code reviews, beserta mengirimkan hasil reviews dengan status pesan reviews seperti comment, approve, dan request changes
+  * Mengerjakan quiz dengan hasil 100%
