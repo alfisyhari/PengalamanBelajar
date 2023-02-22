@@ -52,8 +52,9 @@ Belajar Dasar Git dengan Github. (Progress 70%)
   * Belajar lebih dalam tentang squash and merge, rebase and merge, dan merge.
 
 **Rabu, 22 Februari 2023**
-Belajar Dasar Git dengan Github. (Progress 87%)
+Belajar Dasar Git dengan Github. (Progress 100%)
   * Belajar lebih dalam memahami code reviews, beserta mengirimkan hasil reviews dengan status pesan reviews seperti comment, approve, dan request changes.
   * Mengerjakan quiz dengan hasil 100%.
   * Belajar lebih dalam tentang studi kasus kolaborasi dengan tim, memahami bagaimana bisa menggunakan fork dan pull request.
   * Mengerjakan quiz dengan hasil 100%.
+  * Mengerjakan ujian akhir dengan hasil 100% dan mendapatkan certificate https://www.dicoding.com/certificates/EYX49EV7RPDL
