@@ -58,3 +58,8 @@ Belajar Dasar Git dengan Github. (Progress 100%)
   * Belajar lebih dalam tentang studi kasus kolaborasi dengan tim, memahami bagaimana bisa menggunakan fork dan pull request.
   * Mengerjakan quiz dengan hasil 100%.
   * Mengerjakan ujian akhir dengan hasil 100% dan mendapatkan certificate https://www.dicoding.com/certificates/EYX49EV7RPDL
+
+**Kamis, 23 Februari 2023**
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 10%)
+  * Persiapan belajar.
+  * Mengerjakan Pre-test dengan hasil 79%.
