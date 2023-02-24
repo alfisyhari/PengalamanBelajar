@@ -64,3 +64,11 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 10%)
   * Persiapan belajar.
   * Mengerjakan Pre-test dengan hasil 79%.
   * Mengerjakan latihan kuis dengan hasil 100%.
+  
+**Jum'at, 24 Februari 2023**
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
+  * Memahami kebutuhan aplikasi
+
+**Sabtu, 25 Februari 2023**
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
+  * Memahami kebutuhan aplikasi
