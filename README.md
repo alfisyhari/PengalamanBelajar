@@ -70,7 +70,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
   * Memahami kebutuhan aplikasi.
 
 **Sabtu, 25 Februari 2023**
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 25%)
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 31%)
   * Belajar lebih dalam tentang dunia software development (pengembang aplikasi) suatu proses yang bisa diikuti untuk membuat suatu aplikasi biasanya disebut (Software     Development Life Cycle (SDLC).
     - Planning / Perencanaan
     - Analysis / Analisis
@@ -99,3 +99,9 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 25%)
   * Belajar mengenai perbedaan compiler dengan interpreter.
     - Compiler merupakan aplikasi yang bertugas untuk mengkonversi source code yang kita buat menjadi bahasa mesin. Apabila terdapat penulisan kode yang salah, maka         compiler akan mengirimkan pesan error kepada kita dan harus diperbaiki.
     - Interpreter merupakan aplikasi yang bertugas untuk mengkonversi source code menjadi machine code secara langsung ketika aplikasi dijalankan.
+  * Teknik penyelesaian masalah menggunakan cara berpikir komputasional :
+    - Decomposition adalah teknik memecah permasalahan yang besar menjadi bagian kecil.
+    - Pattern Recognition adalah teknik melihat perbedaan atau persamaan pola dari berbagai permasalahan, sehingga kita dapat memprediksi atau memproyeksikan solusi         apa yang harus dilakukan.
+    - Abstraction adalah teknik mengabstraksikan suatu permasalahan atau penyaringan dan pengumpulan data yang bersifat umum. Abstraksi juga mengesampingkan detail           data yang bersifat khusus supaya lebih berkonsentrasi terhadap apa yang akan dilakukan. Abstraksi juga memisahkan antara karakteristik secara umum dan khusus.
+    - Menyusun langkah menggunakan algoritma / Algorithm.
+    - Mengevaluasi solusi yang didapatkan / Evaluation.
