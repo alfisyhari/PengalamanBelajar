@@ -70,7 +70,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
   * Memahami kebutuhan aplikasi.
 
 **Sabtu, 25 Februari 2023**
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 31%)
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 40%)
   * Belajar lebih dalam tentang dunia software development (pengembang aplikasi) suatu proses yang bisa diikuti untuk membuat suatu aplikasi biasanya disebut (Software     Development Life Cycle (SDLC).
     - Planning / Perencanaan
     - Analysis / Analisis
@@ -113,3 +113,5 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 31%)
     - Mengerjakan latihan pembuatan studi kasus penggunaan flowchart untuk aplikasi penjualan :
     
     ![flowchart_latihan](https://user-images.githubusercontent.com/67992588/221356672-d807f45d-fbd7-4c18-b015-c14359526c14.png)
+  
+  * Mengerjakan latihan kuis dengan hasil 100%.
