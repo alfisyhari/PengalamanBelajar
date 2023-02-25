@@ -98,4 +98,4 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 25%)
   * Belajar lebih dalam tentang SKPL (Spesifikasi Kebutuhan Perangkat Lunak) atau bisa disebut SRS (Software Requirement Spesification) adalah sebuah dokumen yang         dibuat sebelum mengembangkan aplikasi perangkat lunak.
   * Belajar mengenai perbedaan compiler dengan interpreter.
     - Compiler merupakan aplikasi yang bertugas untuk mengkonversi source code yang kita buat menjadi bahasa mesin. Apabila terdapat penulisan kode yang salah, maka         compiler akan mengirimkan pesan error kepada kita dan harus diperbaiki.
-    - Interpreter merupakan aplikasi yang bertguas untuk mengkonversi source code menjadi machine code secara langsung ketika aplikasi dijalankan.
+    - Interpreter merupakan aplikasi yang bertugas untuk mengkonversi source code menjadi machine code secara langsung ketika aplikasi dijalankan.
