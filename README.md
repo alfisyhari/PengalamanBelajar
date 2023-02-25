@@ -126,3 +126,8 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 48%)
     - Terdapat beberapa hal yang harus diperhatikan dalam penulisan variabel;
       - Jangan menulis nama variabel yang sama dengan keyword bahasa pemrograman.
       - Jangan mengawali nama variabel dengan angka.
+  * Belajar mengenai tipe data.
+    - Terdapat macam-macam tipe data seperti;
+      - Numerik adalah variabel yang erat hubungannya dengan angka. Numerik dibagi menjadi 2; nilai angka yang bulat dan nilai angka desimal dengan koma di dalamnya. A         Atau bisa disebut integer dan float.
+      - Boolean adalah tipe data yang memiliki nilai True dan False.
+      - Teks atau Karakter adalah tipe data yang digunakan untuk membuat suatu karakter, kalimat, maupun paragraf. Jika kita ingin menggunakan satu karakter dalam satu         waktu bisa menggunakan tipe data char, sedangkan jika membuat karakter dalam jumlah besar bisa menggunakan tipe data string.
