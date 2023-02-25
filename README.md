@@ -67,11 +67,10 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 10%)
   
 **Jum'at, 24 Februari 2023**
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
-  * Memahami kebutuhan aplikasi
+  * Memahami kebutuhan aplikasi.
 
 **Sabtu, 25 Februari 2023**
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
-  * Memahami kebutuhan aplikasi
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 25%)
   * Belajar lebih dalam tentang dunia software development (pengembang aplikasi) suatu proses yang bisa diikuti untuk membuat suatu aplikasi biasanya disebut (Software     Development Life Cycle (SDLC).
     - Planning / Perencanaan
     - Analysis / Analisis
@@ -91,3 +90,8 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
       Sebagai seorang [deskripsi dari pengguna], Saya menginginkan [suatu fungsionalitas], sehingga mendapatkan [suatu kemampuan atau fitur tertentu].
     - Straw Man Documents adalah suatu teknik yang menyampaikan ide dari aplikasi tanpa menuliskan kode program apa pun. Dapat dilakukan dengan berbagai macam media,         misalnya storyboards, flowcharts, dan mock-up html.
     - Prototyping adalah suatu proses pembuatan prototipe program yang terbatas pada fungsionalitas utama saja.
+  * Belajar lebih dalam tentang Spesifikasi Teknis Aplikasi yaitu dokumen yang menyimpan informasi detail mengenai fungsionalitas dari sistem/aplikasi, servis, dan         juga limitasi-limitasinya.
+    - Spesifikasi teknis yang bisa kita terapkan adalah; clear/jelas, unambigous/tidak ambigu, mudah dipahami, complete/lengkap, consistent/konsisten.
+    - Harus mengetahui dari kebutuhan sisi pandang; developer, client/user, dan legal.
+    - Dalam mengembangkan aplikasi, sebaiknya disiapkan juga plan B atau contingency plan, adalah suatu tindakan alternatif yang dipersiapkan ketika tindakan utama           yang diperencanakan untuk melakukan seseuatu gagal atau terhambat oleh berbagai faktor.
+  * Mengerjakan latihan kuis dengan hasil 100%.
