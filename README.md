@@ -109,3 +109,6 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 31%)
     - Flowchart atau diagram alur merupakan bentuk penggambaran dengan pendekatan visual terkait langkah - langkah dan keputusan untuk melakukan sebuah proses, alur         kerja, ataupun algoritma.
     - Simbol-Simbol pada Flowchart :
     ![flowchart](https://user-images.githubusercontent.com/67992588/221343092-927ec581-89d7-43ba-8a3b-80d3594d2551.png)
+    - Mengerjakan latihan pembuatan studi kasus penggunaan flowchart untuk aplikasi penjualan :
+    ![flowchart_latihan](https://user-images.githubusercontent.com/67992588/221356672-d807f45d-fbd7-4c18-b015-c14359526c14.png)
+)    
