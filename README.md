@@ -83,9 +83,9 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 25%)
   * Belajar lebih dalam tentang Requirement Gathering adalah proses mendapatkan informasi dari para stakeholder (pemegang kepentingan), seperti manajer, developer,         customer, dan user.
   * Belajar lebih dalam tentang teknik yang dapat digunakan untuk requirement gathering seperti interview, user stories, straw man documents, dan prototyping.
     - Interview adalah proses tanya jawab, memberikan pertanyaan ke pada peserta wawancara, memiliki beberapa cara seperti :
-      > Master-apprentice relationship adalah proses transfer knowledge dengan maksud mengajari suatu hal.
-      > Kita dapat meminta seseorang untuk mengajarkan kepada kita apa yang mereka lakukan.
-      > Kita dapat mengamati seseorang ketika melakukan suatu tugas, sehingga kita dapat mengetahui penyebab terhambtanya suatu proses atau bahkan faktor yang dapat           membantu proses mereka menjadi lebih baik.
+      Master-apprentice relationship adalah proses transfer knowledge dengan maksud mengajari suatu hal.
+      Kita dapat meminta seseorang untuk mengajarkan kepada kita apa yang mereka lakukan.
+      Kita dapat mengamati seseorang ketika melakukan suatu tugas, sehingga kita dapat mengetahui penyebab terhambtanya suatu proses atau bahkan faktor yang dapat           membantu proses mereka menjadi lebih baik.
     - User Stories adalah penulisan kebutuhan user sesuai dengan role dan keinginannya, contoh penulisannya seperti ini :
       Sebagai seorang [deskripsi dari pengguna], Saya menginginkan [suatu fungsionalitas], sehingga mendapatkan [suatu kemampuan atau fitur tertentu].
     - Straw Man Documents adalah suatu teknik yang menyampaikan ide dari aplikasi tanpa menuliskan kode program apa pun. Dapat dilakukan dengan berbagai macam media,         misalnya storyboards, flowcharts, dan mock-up html.
