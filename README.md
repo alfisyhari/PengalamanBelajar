@@ -115,3 +115,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 40%)
     ![flowchart_latihan](https://user-images.githubusercontent.com/67992588/221356672-d807f45d-fbd7-4c18-b015-c14359526c14.png)
   
   * Mengerjakan latihan kuis dengan hasil 100%.
+  * Belajar mengenai; case sensitivity, penulisan statement, whitespace, keyword, dan penulisan pseudocode.
+    - Case Sensitivity merupakan setiap kapitalisasi huruf pada sebuah kode akan berpengaruh.
+    - Penulisan statement merupakan penulisan suatu instruksi / kumpulan instruksi tunggal yang berkaitan satu sama lain. Mengakhiri statement bisa menggunakan               semicolon (;) pada bahasa pemrograman tertentu.
+    - Whitespaces merupakan suatu baris kosong untuk membedakan setiap kode yang ada. Whitespaces sangat berguna untuk melakukan formatting kode supaya lebih mudah           dipahami.
