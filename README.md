@@ -70,7 +70,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
   * Memahami kebutuhan aplikasi.
 
 **Sabtu, 25 Februari 2023**
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 40%)
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 48%)
   * Belajar lebih dalam tentang dunia software development (pengembang aplikasi) suatu proses yang bisa diikuti untuk membuat suatu aplikasi biasanya disebut (Software     Development Life Cycle (SDLC).
     - Planning / Perencanaan
     - Analysis / Analisis
@@ -119,3 +119,10 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 40%)
     - Case Sensitivity merupakan setiap kapitalisasi huruf pada sebuah kode akan berpengaruh.
     - Penulisan statement merupakan penulisan suatu instruksi / kumpulan instruksi tunggal yang berkaitan satu sama lain. Mengakhiri statement bisa menggunakan               semicolon (;) pada bahasa pemrograman tertentu.
     - Whitespaces merupakan suatu baris kosong untuk membedakan setiap kode yang ada. Whitespaces sangat berguna untuk melakukan formatting kode supaya lebih mudah           dipahami.
+    - Keywords merupakan kata kunci yang telah disediakan oleh sebuah bahasa pemrograman. Keyword harus dikombinasikan dengan logika pemrograman yang ada dengan bahasa       yang kita pahami.
+    - Penulisan Pseudocode merupakan istilah dalam pemrograman untuk menuliskan sebuah sintaks, statement, algoritma, dan lainnya dalam bahasa yang bisa dipahami oleh       manusia.
+  * Belajar mengenai variabel.
+    - Variabel merupakan suatu wadah yang menampung suatu nilai tertentu.
+    - Terdapat beberapa hal yang harus diperhatikan dalam penulisan variabel;
+      - Jangan menulis nama variabel yang sama dengan keyword bahasa pemrograman.
+      - Jangan mengawali nama variabel dengan angka.
