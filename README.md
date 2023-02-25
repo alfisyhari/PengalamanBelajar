@@ -95,3 +95,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 25%)
     - Harus mengetahui dari kebutuhan sisi pandang; developer, client/user, dan legal.
     - Dalam mengembangkan aplikasi, sebaiknya disiapkan juga plan B atau contingency plan, adalah suatu tindakan alternatif yang dipersiapkan ketika tindakan utama           yang diperencanakan untuk melakukan seseuatu gagal atau terhambat oleh berbagai faktor.
   * Mengerjakan latihan kuis dengan hasil 100%.
+  * Belajar lebih dalam tentang SKPL (Spesifikasi Kebutuhan Perangkat Lunak) atau bisa disebut SRS (Software Requirement Spesification) adalah sebuah dokumen yang         dibuat sebelum mengembangkan aplikasi perangkat lunak.
+  * Belajar mengenai perbedaan compiler dengan interpreter.
+    - Compiler merupakan aplikasi yang bertugas untuk mengkonversi source code yang kita buat menjadi bahasa mesin. Apabila terdapat penulisan kode yang salah, maka         compiler akan mengirimkan pesan error kepada kita dan harus diperbaiki.
+    - Interpreter merupakan aplikasi yang bertguas untuk mengkonversi source code menjadi machine code secara langsung ketika aplikasi dijalankan.
