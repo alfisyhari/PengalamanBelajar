@@ -162,3 +162,4 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Melakukan satu hal.
       - Nama fungsi harus merepresentasikan tujuannya.
       - Buatlah fungsi untuk menghindari duplikasi kode. 
+  * Mengerjakan latihan kuis dengan hasil 100%.
