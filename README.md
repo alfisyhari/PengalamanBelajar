@@ -177,3 +177,15 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Menjadi lebih fokus pada permasalahan logika kode dibandingkan style-nya saat berdiskusi dengan rekan kerja anda.
   * Mengerjakan latihan kuis dengan hasil 100%.
   * Mengerjakan ujian akhir dengan hasil 95% dan mendapatkan certificate https://www.dicoding.com/certificates/81P28DJNYPOY
+
+**Ahad, 26 Februari 2023**
+Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
+  * Belajar tentang logika pemrograman, logika pemrograman adalah sebuah kemampuan dasar yang menerapkan pemahaman operasi logika terhadap data ke dalam ilmu komputer.
+  * Logika Pemrograman membantu kita untuk menyelesaikan permasalahan (problem solving).
+  * Algoritma pemrograman merupakan langkah-langkah penyelesaian masalah yang terangkai secara masuk akal, urut, dan sistematis.
+  * Belajar penyusunan algoritma, ada beberapa hal yang harus diperhatikan;
+     - Finiteness (Keterbatasan) algoritma yang berjalan dan memproses setiap langkah-langkahnya memiliki sifat terbatas, sehingga ia harus berhenti ketika semua              langkah-langkahnya selesai dikerjakan.
+     - Definiteness (Kepastian) algoritma harus jelas, detail, dan tidak ambigu (makna ganda).
+     - Effectiveness (Efektivitas) setiap algoritma harus dibuat secara efektif, langkah-langkah yang ada di dalamnya juga harus sesuai kebutuhan dan tidak perlu              berlebihan.
+     - Input (Masukan) algoritma pasti membutuhkan nol atau lebih masukan (input) sebelum prosesnya dimulai.
+     - Output (Keluaran) setiap input yang diproses oleh algoritma pasti memiliki satu atau lebih keluaran (output).
