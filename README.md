@@ -164,4 +164,14 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Buatlah fungsi untuk menghindari duplikasi kode. 
   * Mengerjakan latihan kuis dengan hasil 100%.
   * Belajar membuat form login menggunakan HTML, CSS, dan Javascript secara mendasar.
-  * Mengerjaian latihan kuis dengan hasil 100%.
+  * Mengerjakan latihan kuis dengan hasil 100%.
+  * Belajar tentang style guide, style guide sangat penting dan diperlukan oleh para pengembang software;
+      - Konsistensi, hal yang mendasar dan diperlukan ketika menulis kode, terutama jika bekerja dengan tim. Kode yang baik adalah yang bisa dipahami orang lain.
+      - Membantu proses onboarding, style guide dapat membantu proses onboarding seperti saat ada anggota baru dalam tim. Dengan style guide, ia akan mampu beradaptasi         dan belajar lebih cepat.
+      - Menambah wawasan, banyaknya style guide yang menerapkan koma pada item terakhir dalam array.
+      - Membantu proses code review, style guide dapat membantu proses code review dengan memberitahu gaya yang digunakan dalam menuliskan kode. Workflow dalam                 membangun produk yang baik tentu terdapa proses code review, dengan begitu tidak akan terjadi banyak perdebatan pada proses code review.
+      - Memahami dan membaca kode jadi lebih mudah.
+      - Kode jadi lebih mudah untuk dipelihara.
+      - Mengurangi kesalahan pengembang software yang sering terjadi.
+      - Mengurangi beban secara kognitif saat membuat kode.
+      - Menjadi lebih fokus pada permasalahan logika kode dibandingkan style-nya saat berdiskusi dengan rekan kerja anda.
