@@ -211,3 +211,15 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
      - Logika Aritmatika, membantu pemecahan masalah terkait dengan perhitungan yang melibatkan operasi matematika seperti penjumlahan, pengurangan, dan lainnya.
      - Logika Perbandingan, membantu untuk membandingkan dua hal yang mempunyai nilai. Nilai inilah yang akan dibandingkan dengan nilai lain atau kondisi yang                diinginkan.
      - Logika Perulangan, proses pengulangan instruksi yang dilakukan dalam kondisi yang telah ditentukan.
+  * Belajar gerbang logika;
+     - Gerbang logika merupakan sebuah rangkaian sirkuit digital yang berguna untuk memproses logika boolean (logika yang menghasilkan output benar atau salah).              Gerbang logika ini menghasilkan output berupa 0 (salah) dan 1 (benar) berdasarkan input(masukan) yang kita berikan.
+     - Terdapat 7 jenis gerbang logika;
+     - AND
+     - OR
+     - NOT
+     - NAND
+     - NOR
+     - XOR
+     - XNOR
+     - Gerbang logika biasanya digambarkan seperti diagram sirkuit atau bisa juga dalam bentuk tabel kebenaran. Tabel kebenaran adalah kumpulan kombinasi beberapa            nilai input berdasarkan logika yang kita buat untuk menghasilkan output (keluaran) yang masuk akal.
+     - ![tabel_kebenaran_logika_and](https://user-images.githubusercontent.com/67992588/221422925-29b586c8-0438-4e2b-8ddc-363f0bbddf0b.jpeg)
