@@ -191,6 +191,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
      - Output (Keluaran) setiap input yang diproses oleh algoritma pasti memiliki satu atau lebih keluaran (output).
   * Belajar logika induktif;
   ![logika_induktif](https://user-images.githubusercontent.com/67992588/221419611-ad663bed-85ce-4100-bd26-77ffab56745d.jpeg)
+  - - -
      - Logika Induktif merupakan metode berpikir menggunakan pengamatan dan digabungkan dengan pengalaman yang sudah anda ketahui kebenarannya untuk mendapatkan sebuah        kesimpulan. Pada intinya, logika ini adalah logika pendukung pembuktian. Contohnya penggunaan algoritma induktif ketika kita keluar rumah dan menyadari cuaca          disekitar sudah mendung dan ingin hujan, otomatis kita membawa payung untuk jaga-jaga.
      - Proses penalaran induktif dimulai dari;
          1. Pengamatan terhadap suatu peristiwa atau hal lainnya.
@@ -199,6 +200,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
          4. Mengambil kesimpulan.
   * Belajar logika deduktif;
   ![logika_deduktif](https://user-images.githubusercontent.com/67992588/221421354-a8badb5f-3370-4f23-801c-d7de95e59907.jpeg)
+  - - -
      - Logika Deduktif merupakan sistem yang tepat dan teratur bertujuan untuk memberikan dukungan pasti untuk suatu kesimpulan.
      - Contoh penggunaan algoritma deduktif;
        1.Semua hewan berbisa berhabaya.
