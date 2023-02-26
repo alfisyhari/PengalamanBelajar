@@ -131,3 +131,10 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 48%)
       - Numerik adalah variabel yang erat hubungannya dengan angka. Numerik dibagi menjadi 2; nilai angka yang bulat dan nilai angka desimal dengan koma di dalamnya. A         Atau bisa disebut integer dan float.
       - Boolean adalah tipe data yang memiliki nilai True dan False.
       - Teks atau Karakter adalah tipe data yang digunakan untuk membuat suatu karakter, kalimat, maupun paragraf. Jika kita ingin menggunakan satu karakter dalam satu         waktu bisa menggunakan tipe data char, sedangkan jika membuat karakter dalam jumlah besar bisa menggunakan tipe data string.
+  * Belajar mengenai logika pemrograman dasar.
+    - Logika dan Algoritma adalah dua hal yang berbeda. Logika merupakan pemikiran yang digunakan untuk mencari solusi terhadap sebuah permasalahan dalam program.           Sedangkan algoritma merupakan alur yang berurutan ketika menyelesaikan permasalahan tersebut.
+    - Logika Perbandingan Sederhana bisa menggunakan if dan else, untuk mengecekan kondisi pada suatu nilai bisa menggunakan operator ("==").
+    - Blok Kode digunakan untuk menandai statement yang dijalankan dengan simbol buka tutup kurung kurawal ({}).
+    - Logika Perbandingan Kompleks bisa menggunakan kondisi AND dan OR;
+      - AND merupakan kondisi yang mengharuskan kedua kondisi harus terpenuhi, biasanya menggunakan simbol (&&).
+      - OR merupakan kondisi yang tidak mengharuskan tidak terpenuhi dua-duanya. Bisa salah satunya saja, biasanya menggunakan simbol (||).
