@@ -157,3 +157,8 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Strings merupakan tipe data teks.
       - Boolean merupakan tipe data yang memiliki dua nilai, yaitu True atau False.
       - Null merupakan tipe data yang digunakan sebagai nilai sementara pada variabel, tapi sebenarnya nilai tersebut "tidak ada".
+  * Belajar dalam membuat sebuah fungsi di Javascript;
+      - Hindari membuat parameter yang banyak.
+      - Melakukan satu hal.
+      - Nama fungsi harus merepresentasikan tujuannya.
+      - Buatlah fungsi untuk menghindari duplikasi kode. 
