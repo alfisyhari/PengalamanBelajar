@@ -207,3 +207,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
        2.Premis kedua dibuat berdasarkan premis pertama (lebih khusus). Jika premis pertama sudah valid, maka pernyataan dalam premis kedua ini harusnya juga valid.
        3.Kedua premis tersebut diuji dalam berbagai skenario.
        4.Menarik kesimpulan berdasarkan hasil pengujian untuk menetapkan sebuah informasi yang diuji valid atau tidak.
+  * Belajar logika pemrograman dasar;
+     - Logika Aritmatika, membantu pemecahan masalah terkait dengan perhitungan yang melibatkan operasi matematika seperti penjumlahan, pengurangan, dan lainnya.
+     - Logika Perbandingan, membantu untuk membandingkan dua hal yang mempunyai nilai. Nilai inilah yang akan dibandingkan dengan nilai lain atau kondisi yang                diinginkan.
+     - Logika Perulangan, proses pengulangan instruksi yang dilakukan dalam kondisi yang telah ditentukan.
