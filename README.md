@@ -163,3 +163,5 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Nama fungsi harus merepresentasikan tujuannya.
       - Buatlah fungsi untuk menghindari duplikasi kode. 
   * Mengerjakan latihan kuis dengan hasil 100%.
+  * Belajar membuat form login menggunakan HTML, CSS, dan Javascript secara mendasar.
+  * Mengerjaian latihan kuis dengan hasil 100%.
