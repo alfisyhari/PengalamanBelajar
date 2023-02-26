@@ -151,3 +151,9 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Hindari penamaan variabel dengan istilah umum contohnya data.
       - Pembuatan variabel di Javascript hanya dapat dimulai dengan huruf dan tanda underscore ( _ ).
       - Nama variabel tidak boleh mengandung spasi.
+  * Belajar tipe data dalam Javascript;
+      - Undefined merupakan tipe data yang terbentuk ketika sebuah variabel tidak memiliki nilai, artinya ketika kita mendeklarasikan variabel tanpa                           menginisialisasikan nilainya.
+      - Numbers merupakan tipe data angka. Tipe data ini dapat melakukan perhitungan aritmatika seperti penjumlahan, pengurangan, perkalian, dan sebagainya.
+      - Strings merupakan tipe data teks.
+      - Boolean merupakan tipe data yang memiliki dua nilai, yaitu True atau False.
+      - Null merupakan tipe data yang digunakan sebagai nilai sementara pada variabel, tapi sebenarnya nilai tersebut "tidak ada".
