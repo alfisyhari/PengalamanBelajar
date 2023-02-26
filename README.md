@@ -70,7 +70,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 20%)
   * Memahami kebutuhan aplikasi.
 
 **Sabtu, 25 Februari 2023**
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 48%)
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 51%)
   * Belajar lebih dalam tentang dunia software development (pengembang aplikasi) suatu proses yang bisa diikuti untuk membuat suatu aplikasi biasanya disebut (Software     Development Life Cycle (SDLC).
     - Planning / Perencanaan
     - Analysis / Analisis
@@ -138,6 +138,16 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 48%)
     - Logika Perbandingan Kompleks bisa menggunakan kondisi AND dan OR;
       - AND merupakan kondisi yang mengharuskan kedua kondisi harus terpenuhi, biasanya menggunakan simbol (&&).
       - OR merupakan kondisi yang tidak mengharuskan tidak terpenuhi dua-duanya. Bisa salah satunya saja, biasanya menggunakan simbol (||).
+
+**Ahad, 26 Februari 2023**
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
   * Belajar mengenai logika perbandingan While dan For;
-    While merupakan jenis perulangan yang statement di dalamnya akan dijalankan terus menerus selama kondisinya memenuhi syarat atau true.
-  * For merupakan jenis perulanagan yang memiliki nilai, jumlah perulangan, dan akhiran yang biasanya berupa statement.
+      - While merupakan jenis perulangan yang statement di dalamnya akan dijalankan terus menerus selama kondisinya memenuhi syarat atau true.
+      - For merupakan jenis perulanagan yang memiliki nilai, jumlah perulangan, dan akhiran yang biasanya berupa statement.
+  * Belajar mengenai variabel dalam Javascript;
+      - Variabel di Javascript dapat dibuat dengan menggunakan keyword let dan const;
+      - Variabel let bersifat flexible artinya bisa mengubah nilai.
+      - Variabel const bersifat constant artinya tidak bisa mengubah nilai.
+      - Hindari penamaan variabel dengan istilah umum contohnya data.
+      - Pembuatan variabel di Javascript hanya dapat dimulai dengan huruf dan tanda underscore ( _ ).
+      - Nama variabel tidak boleh mengandung spasi.
