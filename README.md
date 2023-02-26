@@ -175,3 +175,5 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 55%)
       - Mengurangi kesalahan pengembang software yang sering terjadi.
       - Mengurangi beban secara kognitif saat membuat kode.
       - Menjadi lebih fokus pada permasalahan logika kode dibandingkan style-nya saat berdiskusi dengan rekan kerja anda.
+  * Mengerjakan latihan kuis dengan hasil 100%.
+  * Mengerjakan ujian akhir dengan hasil 95% dan mendapatkan certificate https://www.dicoding.com/certificates/81P28DJNYPOY
