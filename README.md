@@ -192,8 +192,9 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
   * Belajar logika induktif;
 
   ![logika_induktif](https://user-images.githubusercontent.com/67992588/221419611-ad663bed-85ce-4100-bd26-77ffab56745d.jpeg)
+     =
      - Logika Induktif merupakan metode berpikir menggunakan pengamatan dan digabungkan dengan pengalaman yang sudah anda ketahui kebenarannya untuk mendapatkan sebuah        kesimpulan. Pada intinya, logika ini adalah logika pendukung pembuktian.
-       - Proses penalaran induktif dimulai dari;
+     - Proses penalaran induktif dimulai dari;
          1. Pengamatan terhadap suatu peristiwa atau hal lainnya.
          2. Mendektesi pola dan keteraturan dari pengalaman yang telah terjadi.
          3. Merumuskan beberapa hipotesis sementara yang dapat kita eksplorasi.
