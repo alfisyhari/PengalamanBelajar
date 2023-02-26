@@ -138,3 +138,6 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progress 48%)
     - Logika Perbandingan Kompleks bisa menggunakan kondisi AND dan OR;
       - AND merupakan kondisi yang mengharuskan kedua kondisi harus terpenuhi, biasanya menggunakan simbol (&&).
       - OR merupakan kondisi yang tidak mengharuskan tidak terpenuhi dua-duanya. Bisa salah satunya saja, biasanya menggunakan simbol (||).
+  * Belajar mengenai logika perbandingan While dan For;
+    While merupakan jenis perulangan yang statement di dalamnya akan dijalankan terus menerus selama kondisinya memenuhi syarat atau true.
+  * For merupakan jenis perulanagan yang memiliki nilai, jumlah perulangan, dan akhiran yang biasanya berupa statement.
