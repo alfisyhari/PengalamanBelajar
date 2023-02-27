@@ -222,6 +222,9 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
      - XOR
      - XNOR
      - Gerbang logika biasanya digambarkan seperti diagram sirkuit atau bisa juga dalam bentuk tabel kebenaran. Tabel kebenaran adalah kumpulan kombinasi beberapa            nilai input berdasarkan logika yang kita buat untuk menghasilkan output (keluaran) yang masuk akal.
+
+**Senin, 27 Februari 2023**
+Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 45%)
      - Gerbang Logika And
      - ![tabel_kebenaran_logika_and](https://user-images.githubusercontent.com/67992588/221422925-29b586c8-0438-4e2b-8ddc-363f0bbddf0b.jpeg)
      - Dalam gerbang logika AND, jika input A dan input B bernilai 1 (True) maka output X yang dihasilkan adalah 1 (True). Jika salah satu inputnya ada yang bernilai 0        (False) maka hasilnya adalah 0 (False). Logika And dilambangkan dengan perkalian (multiply) yang menggunakan tanda titik (.) atau tanpa titik karena keduanya          sudah menunjukkan perkalian. Sehingga logika AND bisa diekspresikan sebagai X=A.B atau bisa juga ditulis tanpa titik X = AB.
