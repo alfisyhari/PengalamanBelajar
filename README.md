@@ -228,3 +228,6 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
      - Gerbang Logika Or
      - ![tabel_kebenaran_logika_or](https://user-images.githubusercontent.com/67992588/221569617-341c17e3-7d53-4c09-8ace-440fed4ee844.jpeg)
      - Dalam tabel kebenaran logika OR di atas terdapat nilai A = 0 dan B = 1 menghasilkan output X = 1. Mengapa demikian? Kembali lagi ke prinsip logika OR, jika            salah satu input saja ada yang  bernilai 1 (true), maka hasil outputnya adalah 1 (true). Sedangkan jika semua inputnya bernilai 0 (false), maka hasilnya juga          tetap 0 (false).
+     - Gerbang Logika Not
+     - ![tabel_kebenaran_logika_not](https://user-images.githubusercontent.com/67992588/221570833-6db9a43e-5ac5-46e0-9b3b-e268e1321de3.jpeg)
+     - Berbeda dengan dua gerbang logika sebelumnya, gerbang logika NOT hanya memerlukan 1 input untuk mendapatkan satu keluaran. Gerbang logika NOT akan menghasilkan        keluaran yang berlawanan dari input. Sehingga jika logika NOT dibaca menjadi seperti berikut, “Jika input W bernilai 1 (true), maka hasilnya 0 (false).                Sebaliknya, jika inputnya bernilai 0 (false), maka outputnya bernilai 1 (true).”
