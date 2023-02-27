@@ -225,12 +225,12 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
 
 **Senin, 27 Februari 2023**
 Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 45%)
-     * Gerbang Logika And
-     + ![tabel_kebenaran_logika_and](https://user-images.githubusercontent.com/67992588/221422925-29b586c8-0438-4e2b-8ddc-363f0bbddf0b.jpeg)
-     + Dalam gerbang logika AND, jika input A dan input B bernilai 1 (True) maka output X yang dihasilkan adalah 1 (True). Jika salah satu inputnya ada yang bernilai 0        (False) maka hasilnya adalah 0 (False). Logika And dilambangkan dengan perkalian (multiply) yang menggunakan tanda titik (.) atau tanpa titik karena keduanya          sudah menunjukkan perkalian. Sehingga logika AND bisa diekspresikan sebagai X=A.B atau bisa juga ditulis tanpa titik X = AB.
-     * Gerbang Logika Or
-     + ![tabel_kebenaran_logika_or](https://user-images.githubusercontent.com/67992588/221569617-341c17e3-7d53-4c09-8ace-440fed4ee844.jpeg)
-     + Dalam tabel kebenaran logika OR di atas terdapat nilai A = 0 dan B = 1 menghasilkan output X = 1. Mengapa demikian? Kembali lagi ke prinsip logika OR, jika            salah satu input saja ada yang  bernilai 1 (true), maka hasil outputnya adalah 1 (true). Sedangkan jika semua inputnya bernilai 0 (false), maka hasilnya juga          tetap 0 (false).
-     * Gerbang Logika Not
-     + ![tabel_kebenaran_logika_not](https://user-images.githubusercontent.com/67992588/221570833-6db9a43e-5ac5-46e0-9b3b-e268e1321de3.jpeg)
-     + Berbeda dengan dua gerbang logika sebelumnya, gerbang logika NOT hanya memerlukan 1 input untuk mendapatkan satu keluaran. Gerbang logika NOT akan menghasilkan        keluaran yang berlawanan dari input. Sehingga jika logika NOT dibaca menjadi seperti berikut, “Jika input W bernilai 1 (true), maka hasilnya 0 (false).                Sebaliknya, jika inputnya bernilai 0 (false), maka outputnya bernilai 1 (true).”
+     - ![tabel_kebenaran_logika_and](https://user-images.githubusercontent.com/67992588/221422925-29b586c8-0438-4e2b-8ddc-363f0bbddf0b.jpeg)
+     - Gerbang Logika And
+     - Dalam gerbang logika AND, jika input A dan input B bernilai 1 (True) maka output X yang dihasilkan adalah 1 (True). Jika salah satu inputnya ada yang bernilai 0        (False) maka hasilnya adalah 0 (False). Logika And dilambangkan dengan perkalian (multiply) yang menggunakan tanda titik (.) atau tanpa titik karena keduanya          sudah menunjukkan perkalian. Sehingga logika AND bisa diekspresikan sebagai X=A.B atau bisa juga ditulis tanpa titik X = AB.
+     - Gerbang Logika Or
+     - ![tabel_kebenaran_logika_or](https://user-images.githubusercontent.com/67992588/221569617-341c17e3-7d53-4c09-8ace-440fed4ee844.jpeg)
+     - Dalam tabel kebenaran logika OR di atas terdapat nilai A = 0 dan B = 1 menghasilkan output X = 1. Mengapa demikian? Kembali lagi ke prinsip logika OR, jika            salah satu input saja ada yang  bernilai 1 (true), maka hasil outputnya adalah 1 (true). Sedangkan jika semua inputnya bernilai 0 (false), maka hasilnya juga          tetap 0 (false).
+     - Gerbang Logika Not
+     - ![tabel_kebenaran_logika_not](https://user-images.githubusercontent.com/67992588/221570833-6db9a43e-5ac5-46e0-9b3b-e268e1321de3.jpeg)
+     - Berbeda dengan dua gerbang logika sebelumnya, gerbang logika NOT hanya memerlukan 1 input untuk mendapatkan satu keluaran. Gerbang logika NOT akan menghasilkan        keluaran yang berlawanan dari input. Sehingga jika logika NOT dibaca menjadi seperti berikut, “Jika input W bernilai 1 (true), maka hasilnya 0 (false).                Sebaliknya, jika inputnya bernilai 0 (false), maka outputnya bernilai 1 (true).”
