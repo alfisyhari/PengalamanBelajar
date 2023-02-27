@@ -224,6 +224,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
      - Gerbang logika biasanya digambarkan seperti diagram sirkuit atau bisa juga dalam bentuk tabel kebenaran. Tabel kebenaran adalah kumpulan kombinasi beberapa            nilai input berdasarkan logika yang kita buat untuk menghasilkan output (keluaran) yang masuk akal.
 
 **Senin, 27 Februari 2023**
+
 Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 45%)
      * Gerbang Logika And
      - ![tabel_kebenaran_logika_and](https://user-images.githubusercontent.com/67992588/221422925-29b586c8-0438-4e2b-8ddc-363f0bbddf0b.jpeg)
