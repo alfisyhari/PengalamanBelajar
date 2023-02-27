@@ -224,7 +224,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 18%)
      - Gerbang logika biasanya digambarkan seperti diagram sirkuit atau bisa juga dalam bentuk tabel kebenaran. Tabel kebenaran adalah kumpulan kombinasi beberapa            nilai input berdasarkan logika yang kita buat untuk menghasilkan output (keluaran) yang masuk akal.
 
 **Senin, 27 Februari 2023**
-Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 45%)
+Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 100%)
 
   * Gerbang Logika And
     - Dalam gerbang logika AND, jika input A dan input B bernilai 1 (True) maka output X yang dihasilkan adalah 1 (True). Jika salah satu inputnya ada yang bernilai 0       (False) maka hasilnya adalah 0 (False). Logika And dilambangkan dengan perkalian (multiply) yang menggunakan tanda titik (.) atau tanpa titik karena keduanya           sudah menunjukkan perkalian. Sehingga logika AND bisa diekspresikan sebagai X=A.B atau bisa juga ditulis tanpa titik X = AB.
@@ -240,3 +240,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 45%)
     - XOR singkatan dari Exclusive OR. Jika sebelumnya dalam logika OR kita mengetahui jika salah satu input saja bernilai 1 (true), maka outputnya pasti bernilai 1         (true). Lain halnya dengan XOR yang hanya menghasilkan keluaran 1 (true) ketika kedua inputnya berbeda. Gerbang logika XOR memiliki input A=1, B=1, dan                 menghasilkan keluaran X = 0. Hal tersebut karena logika XOR hanya akan menghasilkan nilai keluaran 1 (true) jika nilai masukannya berbeda. Sedangkan jika nilai         yang dimasukkan sama akan menghasilkan nilai 0 (false).
   * Gerbang Logika Xnor
     - Gerbang logika XNOR memiliki input A=1, B=1, dan menghasilkan keluaran X = 1. Hal tersebut karena logika XNOR hanya akan menghasilkan nilai keluaran 1 (true)           jika nilai masukannya sama. Namun, jika nilai yang dimasukkan berbeda akan menghasilkan nilai 0 (false). Dalam XNOR, hanya masukan bernilai sama yang akan             menghasilkan keluaran dengan nilai 1 (true). Jika nilai inputnya berbeda, maka hasil keluarannya otomatis menjadi 0 (false).
+  * Mengerjakan latihan kuis dengan hasil 100%.
+  * Belajar mengenai pengenalan dasar computational thinking.
+  * Mengerjakan latihan kuis dengan hasil 100%.
+  * Mengerjakan ujian akhir dengan hasil 93% dan mendapatkan certificate https://www.dicoding.com/certificates/1RXYORNOMPVM
