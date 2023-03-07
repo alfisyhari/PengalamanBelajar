@@ -291,3 +291,6 @@ More About HTML
     - Citation merupakan elemen yang digunakan untuk sebuah rujukan pada sebuah dokumen, contohnya sebuah buku, majalah, artikel dan lainnya, biasanya menggunakan tags       cite.
     - Defining terms merupakan elemen yang digunakan ketika mendefinisikan sebuah istilah (term), elemen ini harus terletak pada elemen lain yang menaunginnya, contoh       pada elemen p atau elemen section.
     - Subscript / sub dan Superscript / sup merupakan elemen yang dapat membuat teks yang ditampilkan nampak kecil, elemen ini digunakan ketika menunjukan sebuah rumus       kimia ataupun matematika.
+    - Subscript membuat teks nampak kecil untuk posisi bawah.
+    - Superscript membuat teks nampak kecil untuk posisi atas.
+    - Highlighted text merupakan elemen yang berguna untuk menandai dan menyorot sebuah teks, dapat menggunakan elemen mark.
