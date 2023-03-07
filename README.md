@@ -301,3 +301,6 @@ More About HTML
     -  footer digunakan sebagai catatan kaki pada sebuah elemen article atau section.
     -  main digunakan untuk menampung atau mewadahi konten utama dalam body, konten main dapat terdiri dari banyak section, ataupun artikel, atau konten apapun di            dalam elemen main, selama termasuk konten utama yang dimiliki oleh website.
     -  nav digunakan untuk menampung navigasi yang sifatnya penting atau major.
+    -  article digunakan untuk menjadi container untuk independen konten pada sebuah halaman, konten yang dimaksud dapat dipisah seperti artikel blog, komentar, forum        post, dan konten lainnya.
+    -  aside memiliki dua fungsi, yaitu pertama jika elemen ini ditempatkan di dalam elemen article, maka elemen ini dapat berisikan informasi yang berhubungan dengan        artikel tersebut, kedua jika elemen ini diluar elemen article dapat berisikan informasi yang berhubungan pada keseluruhan halaman. elemen aside biasanya                terletak di samping dari sebuah elemen yang menampungnya.
+    -  section berguna untuk mengelompokkan konten/dokumen menjadi beberapa bagian tema.
