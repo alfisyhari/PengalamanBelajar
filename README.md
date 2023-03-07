@@ -278,3 +278,5 @@ More About HTML
     - mengatur ukuran gambar menggunakan attribut width dan height. disarankan hanya menggunakan salah satunya saja.
   * Blockquote merupakan format long quotations yang dapat digunakan untuk konten yang memiliki sebuah kutipan ataupun sebuah testimonial, biasanya dapat menggunakan       tag blockquote.
   * Preformatted Text merupakan tag yang digunakan untuk konten seperti pembuatan puisi, biasanya dapat menggunakan tag pre.
+  * Figure digunakan untuk merepresentasikan konten tersendiri seperti ilustrasi, diagram, foto, atau bisa juga sebuah baris kode. Di dalam elemen figure kita dapat       menuliskan elemen <figcaption> sebagai sebuah caption untuk konten tersebut.
+    contoh : figure > img src > figcaption
