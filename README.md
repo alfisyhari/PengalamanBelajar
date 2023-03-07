@@ -244,3 +244,13 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 100%)
   * Belajar mengenai pengenalan dasar computational thinking.
   * Mengerjakan latihan kuis dengan hasil 100%.
   * Mengerjakan ujian akhir dengan hasil 93% dan mendapatkan certificate https://www.dicoding.com/certificates/1RXYORNOMPVM
+
+**Selasa, 07 Maret 2023**
+Belajar Dasar Pemrograman Web
+  * Website adalah sebuah halaman yang menampilkan informasi berupa teks atau gambar. Website dapat diakses melalui internet menggunakan browser. Website ini unik         karena tiap halaman dapat saling terhubung dengan menggunakan hypertext links. Umumnya sebuah website memuat informasi yang disediakan secara perorangan, kelompok,     atau organisasi. Semua informasi yang tersedia pada halaman website disimpan pada server.
+  * Server merupakan software yang dapat menghubungkan sebuah komputer dengan komputer lain.
+  * HTTP Server merupakan software yang menerima transaksi dari HyperText Transfer Protocol dalam suatu website.
+  * DNS Server merupakan setiap perangkat komputer atau smartphone atau modem yang terkoneksi internet akan memiliki IP Address, host = dicoding.com, IP Address           104.28.120.105. DNS (Domain Name System) > dicoding.com.
+  * Client yang meminta (request) suatu layanan tertentu ke suatu server.
+  * Client Side merupakan semua proses yang terjadi di sisi pengguna, client meminta data ke server di mana data yang dikirimkan nanti diolah di sisi client, contohnya     data yang diolah dalam bentuk HTML, CSS, dan Javascript.
+  * Server Side merupakan semua proses yang terjadi dilakukan di sisi server, biasanya merupakan tempat dimana terjadinya interaksi pada database.
