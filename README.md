@@ -284,14 +284,20 @@ More About HTML
     - Standarnya elemen HTML memiliki dua sifat, yaitu block dan inline.
     - Block merupakan elemen yang selalu membuat baris baru ketika di render, seperti paragraf, list, heading, dan lainnya.
     - Inline merupakan elemen yang tidak menambahkan baris baru ketika di render, seperti span.
-    - Anchor merupakan elemen yang digunakan untuk membuat sebuah hyperlink ke halaman atau website lain, file, alamat email, atau URL lainnya, biasanya menggunakan a       href.
-    - Emphasized Text merupakan elemen yang digunakan untuk menunjukan stress emphasis atau konten/kata perlu mendapatkan penekanan atau perhatian khusus, biasanya           menggunakan tag em.
-    - Strong merupakan elemen untuk menunjukkan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak, biasanya menggunakan tags strong.
-    - Short Quotations merupakan elemen yang menandai sebuah kutipan dalam sebuah teks, biasanya menggunakan tags q.
-    - Citation merupakan elemen yang digunakan untuk sebuah rujukan pada sebuah dokumen, contohnya sebuah buku, majalah, artikel dan lainnya, biasanya menggunakan tags       cite.
-    - Defining terms merupakan elemen yang digunakan ketika mendefinisikan sebuah istilah (term), elemen ini harus terletak pada elemen lain yang menaunginnya, contoh       pada elemen p atau elemen section.
-    - Subscript / sub dan Superscript / sup merupakan elemen yang dapat membuat teks yang ditampilkan nampak kecil, elemen ini digunakan ketika menunjukan sebuah rumus       kimia ataupun matematika.
-    - Subscript membuat teks nampak kecil untuk posisi bawah.
-    - Superscript membuat teks nampak kecil untuk posisi atas.
-    - Highlighted text merupakan elemen yang berguna untuk menandai dan menyorot sebuah teks, dapat menggunakan elemen mark.
-    - Menerapkan anchor pada navigasi halaman profil, dengan menambahkan href sesuai dengan id pada navigasi.
+  * Anchor merupakan elemen yang digunakan untuk membuat sebuah hyperlink ke halaman atau website lain, file, alamat email, atau URL lainnya, biasanya menggunakan a       href.
+  * Emphasized Text merupakan elemen yang digunakan untuk menunjukan stress emphasis atau konten/kata perlu mendapatkan penekanan atau perhatian khusus, biasanya           menggunakan tag em.
+  * Strong merupakan elemen untuk menunjukkan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak, biasanya menggunakan tags strong.
+  * Short Quotations merupakan elemen yang menandai sebuah kutipan dalam sebuah teks, biasanya menggunakan tags q.
+  * Citation merupakan elemen yang digunakan untuk sebuah rujukan pada sebuah dokumen, contohnya sebuah buku, majalah, artikel dan lainnya, biasanya menggunakan tags       cite.
+  * Defining terms merupakan elemen yang digunakan ketika mendefinisikan sebuah istilah (term), elemen ini harus terletak pada elemen lain yang menaunginnya, contoh       pada elemen p atau elemen section.
+  * Subscript / sub dan Superscript / sup merupakan elemen yang dapat membuat teks yang ditampilkan nampak kecil, elemen ini digunakan ketika menunjukan sebuah rumus       kimia ataupun matematika.
+  * Subscript membuat teks nampak kecil untuk posisi bawah.
+  * Superscript membuat teks nampak kecil untuk posisi atas.
+  * Highlighted text merupakan elemen yang berguna untuk menandai dan menyorot sebuah teks, dapat menggunakan elemen mark.
+  * Menerapkan anchor pada navigasi halaman profil, dengan menambahkan href sesuai dengan id pada navigasi.
+  * Semantic HTML :
+    -  menggunakan header dan footer utama yang muncul pada awal dan akhir di sebuah halaman body.
+    -  header digunakan sebagai pengantar atau pembuka konten dalam sebuah elemen article atau section.
+    -  footer digunakan sebagai catatan kaki pada sebuah elemen article atau section.
+    -  main digunakan untuk menampung atau mewadahi konten utama dalam body, konten main dapat terdiri dari banyak section, ataupun artikel, atau konten apapun di            dalam elemen main, selama termasuk konten utama yang dimiliki oleh website.
+    -  nav digunakan untuk menampung navigasi yang sifatnya penting atau major.
