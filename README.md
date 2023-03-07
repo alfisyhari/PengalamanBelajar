@@ -247,6 +247,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progress 100%)
 
 **Selasa, 07 Maret 2023**
 Belajar Dasar Pemrograman Web
+Pendahuluan
   * Website adalah sebuah halaman yang menampilkan informasi berupa teks atau gambar. Website dapat diakses melalui internet menggunakan browser. Website ini unik         karena tiap halaman dapat saling terhubung dengan menggunakan hypertext links. Umumnya sebuah website memuat informasi yang disediakan secara perorangan, kelompok,     atau organisasi. Semua informasi yang tersedia pada halaman website disimpan pada server.
   * Server merupakan software yang dapat menghubungkan sebuah komputer dengan komputer lain.
   * HTTP Server merupakan software yang menerima transaksi dari HyperText Transfer Protocol dalam suatu website.
@@ -254,3 +255,12 @@ Belajar Dasar Pemrograman Web
   * Client yang meminta (request) suatu layanan tertentu ke suatu server.
   * Client Side merupakan semua proses yang terjadi di sisi pengguna, client meminta data ke server di mana data yang dikirimkan nanti diolah di sisi client, contohnya     data yang diolah dalam bentuk HTML, CSS, dan Javascript.
   * Server Side merupakan semua proses yang terjadi dilakukan di sisi server, biasanya merupakan tempat dimana terjadinya interaksi pada database.
+
+Pengenalan HTML
+  * HTML > salah satu bahasa markup yang digunakan untuk membuat struktur dan menampilkan konten pada World Wide Web (Website).
+  * CSS > bahasa markup yang digunakan untuk mengatur dan mempercantik tampilan pada website.
+  * Javascript > bahasa pemrograman yang digunakan untuk membantu website menampilkan informasi secara dinamis.
+  * Text Editor > sebuah perangkat lunak yang digunakan untuk mengelola plain text, kode html, css, dan javascript dituliskan menggunakan perangkat ini.
+  * Plaint Text > teks yang tidak terformat, format teks ini digunakan dalam penulisan berkas HTML, CSS, dan Javascript.
+  * Rich Text > teks yang terformat, format teks ini digunakan jika kita ingin menuliskan menggunakan microsoft word atau teks editor berbasis WYSIWYG ( What You See       Is What You Get)
+  * Element > sebuah komponen pada HTML yang ditandai dengan tag pembuka dan penutup.
