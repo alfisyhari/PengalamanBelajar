@@ -276,3 +276,5 @@ More About HTML
     - description list merupakan daftar yang terbuat dari beberapa istilah diikuti dengan deskripsi dari istilah tersebut.
   * Image > menggunakan elemen img, attribut src dan alt untuk menginput gambar ke dalam website. kita juga dapat menambahkan elemen title sebagai informasi tambahan       untuk sebuah gambar, yang akan muncul ketika mengarahkan sebuah cursor pada gambar yang ditampilkan.
     - mengatur ukuran gambar menggunakan attribut width dan height. disarankan hanya menggunakan salah satunya saja.
+  * Blockquote merupakan format long quotations yang dapat digunakan untuk konten yang memiliki sebuah kutipan ataupun sebuah testimonial, biasanya dapat menggunakan       tag blockquote.
+  * Preformatted Text merupakan tag yang digunakan untuk konten seperti pembuatan puisi, biasanya dapat menggunakan tag pre.
