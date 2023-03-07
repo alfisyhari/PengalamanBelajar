@@ -289,3 +289,5 @@ More About HTML
     - Strong merupakan elemen untuk menunjukkan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak, biasanya menggunakan tags strong.
     - Short Quotations merupakan elemen yang menandai sebuah kutipan dalam sebuah teks, biasanya menggunakan tags q.
     - Citation merupakan elemen yang digunakan untuk sebuah rujukan pada sebuah dokumen, contohnya sebuah buku, majalah, artikel dan lainnya, biasanya menggunakan tags       cite.
+    - Defining terms merupakan elemen yang digunakan ketika mendefinisikan sebuah istilah (term), elemen ini harus terletak pada elemen lain yang menaunginnya, contoh       pada elemen p atau elemen section.
+    - Subscript / sub dan Superscript / sup merupakan elemen yang dapat membuat teks yang ditampilkan nampak kecil, elemen ini digunakan ketika menunjukan sebuah rumus       kimia ataupun matematika.
