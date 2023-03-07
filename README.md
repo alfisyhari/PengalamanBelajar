@@ -270,3 +270,7 @@ More About HTML
   * Attribute > memberikan informasi tambahan pada sebuah elemen, biasanya dituliskan pada tag pembuka sebuah elemen setelah nama dari elemennya.
   * Paragraf > elemen paling mendasar dari sebuah dokumen teks, biasanya dituliskan dengan elemen p
   * Heading > sebuah elemenn heading yang dapat digunakan sesuai kebutuhan konten, h1 sampai h6.
+  * List > dibagi menjadi 3 yaitu unordered lists, ordered lists, dan description lists.
+    - unordered list merupakan daftar yang ditampilkan tidak memiliki urutan, biasanya dituliskan dengan ul kemudian di dalam elemen tersebut menggunakan tags li.           diantara tag elemen li, kita dapat mengisikan konten apapun termasuk elemen html lain.
+    - ordered list merupakan daftar yang ditampilkan secara terurut.
+    - description list merupakan daftar yang terbuat dari beberapa istilah diikuti dengan deskripsi dari istilah tersebut.
