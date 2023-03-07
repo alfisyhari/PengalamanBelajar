@@ -271,6 +271,6 @@ More About HTML
   * Paragraf > elemen paling mendasar dari sebuah dokumen teks, biasanya dituliskan dengan elemen p
   * Heading > sebuah elemenn heading yang dapat digunakan sesuai kebutuhan konten, h1 sampai h6.
   * List > dibagi menjadi 3 yaitu unordered lists, ordered lists, dan description lists.
-    - unordered list merupakan daftar yang ditampilkan tidak memiliki urutan, biasanya dituliskan dengan ul kemudian di dalam elemen tersebut menggunakan tags li.           diantara tag elemen li, kita dapat mengisikan konten apapun termasuk elemen html lain.
-    - ordered list merupakan daftar yang ditampilkan secara terurut.
+    - unordered list merupakan daftar yang ditampilkan tidak memiliki urutan, biasanya dituliskan dengan ul kemudian di dalam elemen tersebut menggunakan tags li.           diantara tag elemen li, kita dapat mengisikan konten apapun termasuk elemen html lain contohnya menggunakan h1, h2, dan p.
+    - ordered list merupakan daftar yang ditampilkan secara terurut, biasanya dituliskan dengan ol kemudian di dalam elemen tersebut menggunakan tags li. diantara tag       elemen li, kita dapat mengisikan konten apapun termasuk elemen html lain, menggunakan atribut type > ol type = I atau ol type = A dan seterusnya. kita juga dapat       membuat list dengan atribut start dengan nilai tertentu, jadi urutannya akan dimuali sesuai nilai yang diinput. misal 7 > 8 > 9. kita juga dapat menggunakan           attribut reversed pada elemen ol, valuenya akan terbalik misal 7,6,5,4.
     - description list merupakan daftar yang terbuat dari beberapa istilah diikuti dengan deskripsi dari istilah tersebut.
