@@ -267,6 +267,6 @@ Pengenalan HTML
 
 More About HTML
   * Element > sebuah komponen pada HTML yang ditandai dengan tag pembuka dan penutup.
-  * Attribute > memberikan informasi tambahan pada sebuah elemen, biasanya dituliskan pada tag pembuka sebuah elemen setelah nama dari elemennya. (lang = "en)
-  * Paragraf > elemen paling mendasar dari sebuah dokumen teks, biasanya dituliskan dengan elemen pembuka <p> dan elemen penutup </p>.
-  * Heading > sebuah elemenn heading yang dapat digunakan sesuai kebutuhan konten, seperti <h1> dan <h2> mengindikasi judul dan sub judul di dalam konten, elemen           heading dapat digunakan dari <h1> sampai <h6>, contoh penggunaan <h1> Judul </h1>.
+  * Attribute > memberikan informasi tambahan pada sebuah elemen, biasanya dituliskan pada tag pembuka sebuah elemen setelah nama dari elemennya.
+  * Paragraf > elemen paling mendasar dari sebuah dokumen teks, biasanya dituliskan dengan elemen pembuka (<p> dan elemen penutup </p>)
+  * Heading > sebuah elemenn heading yang dapat digunakan sesuai kebutuhan konten, seperti (<h1> dan <h2>) mengindikasi judul dan sub judul di dalam konten, elemen         heading dapat digunakan dari (<h1> sampai <h6>, contoh penggunaan <h1> Judul </h1>.)
