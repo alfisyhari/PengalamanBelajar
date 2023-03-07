@@ -280,3 +280,8 @@ More About HTML
   * Preformatted Text merupakan tag yang digunakan untuk konten seperti pembuatan puisi, biasanya dapat menggunakan tag pre.
   * Figure digunakan untuk merepresentasikan konten tersendiri seperti ilustrasi, diagram, foto, atau bisa juga sebuah baris kode. Di dalam elemen figure kita dapat       menuliskan elemen <figcaption> sebagai sebuah caption untuk konten tersebut.
     contoh : figure > img src > figcaption
+  * Inline Formatting Text
+    - Standarnya elemen HTML memiliki dua sifat, yaitu block dan inline.
+    - Block merupakan elemen yang selalu membuat baris baru ketika di render, seperti paragraf, list, heading, dan lainnya.
+    - Inline merupakan elemen yang tidak menambahkan baris baru ketika di render, seperti span.
+ 
