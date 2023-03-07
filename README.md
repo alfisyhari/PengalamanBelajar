@@ -284,4 +284,7 @@ More About HTML
     - Standarnya elemen HTML memiliki dua sifat, yaitu block dan inline.
     - Block merupakan elemen yang selalu membuat baris baru ketika di render, seperti paragraf, list, heading, dan lainnya.
     - Inline merupakan elemen yang tidak menambahkan baris baru ketika di render, seperti span.
- 
+    - Anchor merupakan elemen yang digunakan untuk membuat sebuah hyperlink ke halaman atau website lain, file, alamat email, atau URL lainnya, biasanya menggunakan a       href.
+    - Emphasized Text merupakan elemen yang digunakan untuk menunjukan stress emphasis atau konten/kata perlu mendapatkan penekanan atau perhatian khusus, biasanya           menggunakan tag em.
+    - Strong merupakan elemen untuk menunjukkan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak, biasanya menggunakan tags strong.
+    - Short Quotations merupakan elemen yang menandai sebuah kutipan dalam sebuah teks, biasanya menggunakan tags q.
