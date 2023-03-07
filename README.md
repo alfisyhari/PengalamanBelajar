@@ -294,3 +294,4 @@ More About HTML
     - Subscript membuat teks nampak kecil untuk posisi bawah.
     - Superscript membuat teks nampak kecil untuk posisi atas.
     - Highlighted text merupakan elemen yang berguna untuk menandai dan menyorot sebuah teks, dapat menggunakan elemen mark.
+    - Menerapkan anchor pada navigasi halaman profil, dengan menambahkan href sesuai dengan id pada navigasi.
