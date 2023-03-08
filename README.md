@@ -337,3 +337,32 @@ Belajar Dasar Pemrograman Web
   * Combinators
     - Adjacent Sibling Selector menggabungkan dua buah basic selector dengan menggunakan tanda plus + di antara keduanya. Adjacent Sibling Selector terdiri dari dua         buah target elemen, namun hanya elemen kedua yang menerapkan rule selama elemen tersebut dituliskan langsung setelah elemen pertama pada berkas HTML. Selain itu       kedua elemen tersebut harus berada di induk elemen yang sama.
     - General Sibling Selector namun rules akan diterapkan pada seluruh elemen kedua yang berada di elemen pertama. Dengan catatan induknya sama, walaupun posisi ini         elemen kedua tidak berada tepat setelahnya. Selector ini menggunakan tanda ~.
+
+ **Kamis, 09 Maret 2023**
+Belajar Dasar Pemrograman Web
+  * Combinators
+    - Child Selector menggabungkan dua buah basic selector dengan menggunakan tanda greater than diantara basic selectornya.
+    - Descendant Selector hampir mirip seperti child selector, namun hierarkinya lebih luas karena rule akan diterapkan pada seluruh elemen yang menjadi turunannya           walaupun secara tidak langsung, dengan menggunakan tanda spasi untuk menggabungkan dua selector.
+    - Pseudo-class Selector merupakan sebuah class semu yang sebenarnya ada pada tiap elemen HTML, kita bisa menetapkan rule hanya ketika sebuah tautan telah                 dikunjungi atau ketika sebuah elemen diarahkan dengan kursor, untuk menggunakannya kita bisa menggunakan titik dua :.
+    - Pseudo-elemen Selector hampir mirip dengan pseudo-class selector, kita bisa menggunakan selector ini ketika ingin menambahkan sebuah konten tepat sebelum dan           sesudah sebuah elemen paragraf, dan kita bisa menggunakannya kita bisa menggunakan double titik dua ::.
+  * Font Styling
+    - font-family menetapkan jenis font yang akan diterapkan pada target.
+    - font-size menetukan ukuran pada teks.
+    - font-weight menentukan ketebalan pada teks.
+    - font-style menetapkan styling yang diterapkan pada teks.
+    - font-variant menentukan teks untuk menggunakan gaya small caps (huruf kapital kecil)
+    - font shorthand dari properti font yang ada.
+  * Relative Unit
+    - em > font size
+    - ex > font height
+    - rem > font size
+    - ch > font width
+    - vw > viewport width
+    - vh > viewport height
+  * Absolute Unit
+    - px > menetapkan nilai font berdasarkan ukuran pixel.
+    - pt > menetapkan nilai font berdasarkan points. (1/72 inch di CSS2.1)
+    - pc > menetapkan nilai font berdasarkan picas. (1 pica = 12 point)
+    - mm > menetapkan nilai font berdasarkan millimeters.
+    - cm > menetapkan nilai font berdasarkan centimeters.
+    - in > menetapkan nilai font berdasarkan inches.
