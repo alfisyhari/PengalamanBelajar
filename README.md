@@ -307,5 +307,8 @@ More About HTML
 
 **Rabu, 08 Maret 2023**
 Belajar Dasar Pemrograman Web
-  * Membuat Table
+  * Table
     Membuat table menggunakan elemen table, elemen table digunakan untuk menandakan dimulai dan diakhirinya sebuah konten tabel dan juga sebagai wadah untuk tabel itu     sendiri, kemudian membuat elemen tr atau table row digunakan untuk membuat sebuah baris baru yang didalamnya terdapat elemen td / table data dan elemen th / table     head sehingga menghasilkan sebuah cell.
+  * Spanning Cell berfungsi untuk menjangkau atau merentangkan sebuah ukuran sel lebih dari ukuran yang biasanya, biasanya untuk menggabungkan 2 row menjadi 1.
+    - Column Spans bisa menggunakan atribut colspan pada elemen td atau th.
+    - Row Spans bisa menggunakan atribut rowspan pada elemen td atau th.
