@@ -324,3 +324,7 @@ Belajar Dasar Pemrograman Web
     - font-size: small;
     - font-family: sans-serif;
     - declaration block merupakan suatu proses menuliskan multiple declaration dalam selector.
+  * CSS Conception
+    - Inheritance memiliki arti dapat mewarisi properti style tertentu pada elemen yang ada di dalamnya, misal menggunakan styling berwarna putih di body maka seluruh       body akan berwarna putih.
+    - Group Selector, ketika kita menerapkan rule yang sama pada beberapa selector yang berbeda, di CSS kita dapat menggabungkan selector tersebut sehingga dapat             meminimalisir penulisan kode berulang, ketika terdapat rule yang serupa dengan value yang sama kita bisa menggunakan tanda ; untuk menggabungkannya.
+    - Rule Order, sesuai dengan namanya cascading artinya mengalir, demikian dengan alur CSS dalam membaca kode yang mengalir dari atas ke bawah.
