@@ -313,3 +313,14 @@ Belajar Dasar Pemrograman Web
     - Column Spans bisa menggunakan atribut colspan pada elemen td atau th.
     - Row Spans bisa menggunakan atribut rowspan pada elemen td atau th.
   * Special Character, seperti pembuatan copyright, dan lain sebagainya.
+  * Pengenalan Styling yaitu CSS atau Cascading Style Sheet. CSS merupakan bahasa markup dan bukanlah bahasa pemrograman dikarenakan tidak terdapat logika, tidak           terdapat sintaks pengkondisian, tidak adanya proses iterasi dan sebagainya.
+  * CSS hanya sebuah declarative languages yang digunakan untuk mendeklarasikan suatu nilai yang nantinya digunakan untuk mengatur seperti apa sebuah halaman HTML         ditampilkan pada browser.
+  * Rule-sets merupakan satu atau lebih aturan styling.
+  * Selector merupakan elemen yang akan menerapkan rule.
+    - h1 > selector
+    - color > property
+    - green > value
+    - {color:green} > declaration
+    - font-size: small;
+    - font-family: sans-serif;
+    - declaration block merupakan suatu proses menuliskan multiple declaration dalam selector.
