@@ -366,3 +366,25 @@ Belajar Dasar Pemrograman Web
     - mm > menetapkan nilai font berdasarkan millimeters.
     - cm > menetapkan nilai font berdasarkan centimeters.
     - in > menetapkan nilai font berdasarkan inches.
+  * Text Styling memberikan formatting pada keseluruhan teks yang ada pada baris paragraf, seperti menetapkan indent, jarak antar baris, kata dan huruf dan sebagainya.
+    - Line Height digunakan untuk mengatur jarak minimal dari garis dasar, bisa menggunakan 1 angka yaitu contohnya 2, bisa menggunakan persen, dan em.
+    - Text Indent digunakan untuk mengatur jarak atau lekuk di awal paragraf, bisa menggunakan px, em, in, atau persen.
+    - Text Alignment digunakan untuk perataan teks, seperti text-align: left, right, center, justify.
+    - Text Decoration digunakan untuk membuat garis bawah atau underline tapi masih banyak propertinya diantara lain; underline, overline, line-through, none.
+    - text-decoration:underline memberikan garis bawah pada teks.
+    - text-decoration:overline memberikan garis atas pada teks.
+    - text-decoration:line-through memberikan efek tulisan dicoret.
+    - text-decoration:none menghilangkan dekorasi teks yang ada pada elemen.
+  * Text Transform memberikan formatting perubahan kapitalisasi pada teks.
+    - text-transform:none teks yang ditampilkan sama seperti yang dituliskan.
+    - text-transform:capitalize membuat huruf pertama besar pada tiap katanya.
+    - text-transform:lowercase membuat seluruh teks menggunakan huruf kecil.
+    - text-transform:uppercase membuat seluruh teks menggunakan huruf besar.
+  * Word and Letter Spacing
+    - letter-spacing digunakan untuk mengatur jarak antar huruf.
+    - word-spacing digunakan untuk mengatur jarak antar kata.
+  * Text Shadow memberikan bayangan pada teks.
+    - nilai pertama menunjukkan seberapa jauh ke kiri atau kanan horizontal bayangan yang harus ditampakkan.
+    - nilai kedua menunjukkan jarak ke atas atau ke bawah vertical bayangan yang harus ditampakkan.
+    - nilai ketiga (opsional) menentukan tingkat keburaman yang harus diterapkan pada bayangan.
+    - nilai keempat menentukan warna yang digunakan pada bayangan.
