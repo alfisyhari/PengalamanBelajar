@@ -331,3 +331,9 @@ Belajar Dasar Pemrograman Web
   * More about Selector, terdapat beberapa selector diantara lainnya ;
   * Type Selector menggunakan nama elemen sebagai target untuk diterapkannya rule, ketika menggunakan selector ini tentu rule akan diterapkan pada seluruh elemen           target yang ada pada dokumen HTML.
   * Class Selector menetapkan target elemen berdasarkan nilai dari atribut class yang diterapkan pada elemennya. Untuk penulisan selector, awali dengan tanda titik .       kemudian lanjutkan dengan nama classnya. Selector class bersifat shareable, sehingga dapat diterapkan pada banyak elemen dengan tipe elemen yang berbeda-beda.
+  * ID Selector menetapkan target elemen berdasarkan nilai dari atribut id yang diterapkan pada elemennya. Atribut id tidak bersifat shareable, harus unik dan             digunakan pada satu elemen saja, biasanya menggunakan tanda pagar #.
+  * Attribute Selector merupakan cara menetapkan target elemen berdasarkan sebuah atribut yang digunakan atau bahkan bisa lebih spesifik dengan nilainya.
+  * Universal Selector digunakan untuk diterapkan pada seluruh elemen, tetapi selector ini juga bisa secara spesifik menargetkan sebuah elemen dengan menggabungkan         bersama selector yang lainnya.
+  * Combinators
+    - Adjacent Sibling Selector menggabungkan dua buah basic selector dengan menggunakan tanda plus + di antara keduanya. Adjacent Sibling Selector terdiri dari dua         buah target elemen, namun hanya elemen kedua yang menerapkan rule selama elemen tersebut dituliskan langsung setelah elemen pertama pada berkas HTML. Selain itu       kedua elemen tersebut harus berada di induk elemen yang sama.
+    - General Sibling Selector namun rules akan diterapkan pada seluruh elemen kedua yang berada di elemen pertama. Dengan catatan induknya sama, walaupun posisi ini         elemen kedua tidak berada tepat setelahnya. Selector ini menggunakan tanda ~.
