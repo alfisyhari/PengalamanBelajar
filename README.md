@@ -304,3 +304,8 @@ More About HTML
     -  article digunakan untuk menjadi container untuk independen konten pada sebuah halaman, konten yang dimaksud dapat dipisah seperti artikel blog, komentar, forum        post, dan konten lainnya.
     -  aside memiliki dua fungsi, yaitu pertama jika elemen ini ditempatkan di dalam elemen article, maka elemen ini dapat berisikan informasi yang berhubungan dengan        artikel tersebut, kedua jika elemen ini diluar elemen article dapat berisikan informasi yang berhubungan pada keseluruhan halaman. elemen aside biasanya                terletak di samping dari sebuah elemen yang menampungnya.
     -  section berguna untuk mengelompokkan konten/dokumen menjadi beberapa bagian tema.
+
+**Rabu, 08 Maret 2023**
+Belajar Dasar Pemrograman Web
+  * Membuat Table
+    Membuat table menggunakan elemen table, elemen table digunakan untuk menandakan dimulai dan diakhirinya sebuah konten tabel dan juga sebagai wadah untuk tabel itu     sendiri, kemudian membuat elemen tr atau table row digunakan untuk membuat sebuah baris baru yang didalamnya terdapat elemen td / table data dan elemen th / table     head sehingga menghasilkan sebuah cell.
