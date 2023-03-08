@@ -312,3 +312,4 @@ Belajar Dasar Pemrograman Web
   * Spanning Cell berfungsi untuk menjangkau atau merentangkan sebuah ukuran sel lebih dari ukuran yang biasanya, biasanya untuk menggabungkan 2 row menjadi 1.
     - Column Spans bisa menggunakan atribut colspan pada elemen td atau th.
     - Row Spans bisa menggunakan atribut rowspan pada elemen td atau th.
+  * Special Character, seperti pembuatan copyright, dan lain sebagainya.
