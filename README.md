@@ -328,3 +328,6 @@ Belajar Dasar Pemrograman Web
     - Inheritance memiliki arti dapat mewarisi properti style tertentu pada elemen yang ada di dalamnya, misal menggunakan styling berwarna putih di body maka seluruh       body akan berwarna putih.
     - Group Selector, ketika kita menerapkan rule yang sama pada beberapa selector yang berbeda, di CSS kita dapat menggabungkan selector tersebut sehingga dapat             meminimalisir penulisan kode berulang, ketika terdapat rule yang serupa dengan value yang sama kita bisa menggunakan tanda ; untuk menggabungkannya.
     - Rule Order, sesuai dengan namanya cascading artinya mengalir, demikian dengan alur CSS dalam membaca kode yang mengalir dari atas ke bawah.
+  * More about Selector, terdapat beberapa selector diantara lainnya ;
+  * Type Selector menggunakan nama elemen sebagai target untuk diterapkannya rule, ketika menggunakan selector ini tentu rule akan diterapkan pada seluruh elemen           target yang ada pada dokumen HTML.
+  * Class Selector menetapkan target elemen berdasarkan nilai dari atribut class yang diterapkan pada elemennya. Untuk penulisan selector, awali dengan tanda titik .       kemudian lanjutkan dengan nama classnya. Selector class bersifat shareable, sehingga dapat diterapkan pada banyak elemen dengan tipe elemen yang berbeda-beda.
