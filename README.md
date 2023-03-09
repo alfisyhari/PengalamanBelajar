@@ -424,3 +424,5 @@ Belajar Dasar Pemrograman Web
     - block : digunakan untuk mengubah elemen inline berperilaku seperti elemen block.
     - inline-block : membuat elemen block tidak menambahkan baris baru ketika dibuat, namun tetap mempertahankan sifat lain dari elemen block.
     - none : digunakan untuk menyembunyikan elemen dari halaman.
+  * Box Shadow dapat menentukan jarak vertikal dan horizontal tingkat keburaman, dan warna pada bayangan, semakin besar nilai bayangan yang nampak akan semakin luas.
+  * Rounded Corner, digunakan untuk membuat sudut bundar pada box dengan properti border-radius.
