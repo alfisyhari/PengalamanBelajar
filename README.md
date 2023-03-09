@@ -416,3 +416,11 @@ Belajar Dasar Pemrograman Web
   * Border Color digunakan untuk menentukan warna pada garis dengan menggunakan nilai RGB, Hex, atau nama warna.
   * Padding merupakan jarak antara area konten dan border, padding banyak diterapkan pada elemen jika elemen tersebut menerapkan warna latar atau pun border.
   * Margin merupakan ruang atau jarak pada sebuah elemen, namun jarak tersebut terletak diluar dari konten dan border elemen.
+  * Perbedaan Inline Element dan Block Element
+    - inline element; elemen HTML yang secara default tidak menambahkan baris baru ketika dibuat, nilai lebar dan tinggi elemen inline sebesar konten di dalamnya, dan       tidak dapat diubah, margin dan padding hanya mempengaruhi elemen secara horizontal, tidak vertikal.
+    - block element; elemen HTML secara default menambahkan baris baru ketika dibuat, jika tidak diatur lebarnya, lebar dari elemen block akan memenuhi lebar dari           browser atau elemen yang menaunginya, kita dapat mengatur dimensi dari elemen block, di dalam elemen block, kita dapat menyimpan tag elemen HTML lainnya.
+  * Display Roles, kita dapat mengubah sebuah elemen inline menjadi blok, begitupun sebaliknya.
+    - inline : digunakan untuk mengubah elemen block berperilaku seperti elemen inline.
+    - block : digunakan untuk mengubah elemen inline berperilaku seperti elemen block.
+    - inline-block : membuat elemen block tidak menambahkan baris baru ketika dibuat, namun tetap mempertahankan sifat lain dari elemen block.
+    - none : digunakan untuk menyembunyikan elemen dari halaman.
