@@ -404,3 +404,12 @@ Belajar Dasar Pemrograman Web
     - border merupakan garis terluar yang mengelilingi konten dan padding.
     - margin merupakan area jarak diluar dari border.
     - edge of element merupakan batas dari suatu elemen, di dalamnya terdapat margin, border, padding, dan konten.
+  * Border merupakan sebuah garis yang mengelilingi area konten dan padding.
+  * Border Width digunakan untuk mengatur ketebalan dari border, nilai properti ini dapat berupa pixel atau menggunakan predefined names value seperti thin, medium,       dan thick.
+  * Border Style digunakan untuk membuat border seperti;
+    - solid
+    - dotted
+    - dashed
+    - double
+    - groove
+    - hidden
