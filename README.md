@@ -435,3 +435,4 @@ Belajar Dasar Pemrograman Web
   * Floating dapat membuat elemen berada pada sebelah kanan atau kiri. saat diterapkan pada elemen inline, properti float juga memungkinkan elemen di sekitarnya           mengelilingi elemen tersebut (wrap).
   * Clear Property
   * Media Queries
+  * Flexbox
