@@ -413,3 +413,6 @@ Belajar Dasar Pemrograman Web
     - double
     - groove
     - hidden
+  * Border Color digunakan untuk menentukan warna pada garis dengan menggunakan nilai RGB, Hex, atau nama warna.
+  * Padding merupakan jarak antara area konten dan border, padding banyak diterapkan pada elemen jika elemen tersebut menerapkan warna latar atau pun border.
+  * Margin merupakan ruang atau jarak pada sebuah elemen, namun jarak tersebut terletak diluar dari konten dan border elemen.
