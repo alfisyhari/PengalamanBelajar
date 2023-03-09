@@ -426,3 +426,9 @@ Belajar Dasar Pemrograman Web
     - none : digunakan untuk menyembunyikan elemen dari halaman.
   * Box Shadow dapat menentukan jarak vertikal dan horizontal tingkat keburaman, dan warna pada bayangan, semakin besar nilai bayangan yang nampak akan semakin luas.
   * Rounded Corner, digunakan untuk membuat sudut bundar pada box dengan properti border-radius.
+  * Positioning
+    - Normal Flow merupakan default behaviour yang dimiliki elemen, di mana setiap elemen block akan ditampilkan dalam baris baru ketika dibuat.
+    - Relative Positioning membuat elemen bisa berpindah posisi ke atas, kanan, bawah, maupun kiri dari posisi semula atau posisi seharusnya elemen tersebut berada.
+    - Absolute Positioning sama seperti relative, elemen akan dipindahkan keluar dari normal flow sehingga kita dapat memindahkan posisi elemen ke atas, kanan, bawah,       maupun kiri secara leluasa tanpa mengganggu elemen di sekitarnya. Namun posisinya relatif pada jendela browser dan induk elemen selama induk elemen juga berada         di luar dari normal flow.
+    - Fixed Positioning merupakan absolute position namun posisinya selalu relatif pada jendela browser. Bahkan ketika pengguna scrolling pun, posisinya di layar akan       tetap tak berubah.
+  * Floating dapat membuat elemen berada pada sebelah kanan atau kiri. saat diterapkan pada elemen inline, properti float juga memungkinkan elemen di sekitarnya           mengelilingi elemen tersebut (wrap).
