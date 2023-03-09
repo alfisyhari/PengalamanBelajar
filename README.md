@@ -388,3 +388,5 @@ Belajar Dasar Pemrograman Web
     - nilai kedua menunjukkan jarak ke atas atau ke bawah vertical bayangan yang harus ditampakkan.
     - nilai ketiga (opsional) menentukan tingkat keburaman yang harus diterapkan pada bayangan.
     - nilai keempat menentukan warna yang digunakan pada bayangan.
+  * Menggunakan Font dari Google Font
+    - untuk memasukkan font external ke dalam CSS, dapat menggunakan @font-face.
