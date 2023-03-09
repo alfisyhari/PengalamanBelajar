@@ -397,3 +397,10 @@ Belajar Dasar Pemrograman Web
   * Menetapkan Nilai Warna (Predefined Color Name)
     - menggunakan nama warna
   * Menentapkan Nilai Warna (Opacity) > 0.0 sampai 1.0
+  * Membuat backgroud color
+  * Belajar lebih dalam mengenai box element :
+    - content merupakan sebuah inti dari kotak elemen yang merupakan konten dari elemen itu sendiri.
+    - padding merupakan area yang menjadi jarak antara border elemen dengan konten yang ditampilkan.
+    - border merupakan garis terluar yang mengelilingi konten dan padding.
+    - margin merupakan area jarak diluar dari border.
+    - edge of element merupakan batas dari suatu elemen, di dalamnya terdapat margin, border, padding, dan konten.
