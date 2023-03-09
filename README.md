@@ -390,3 +390,10 @@ Belajar Dasar Pemrograman Web
     - nilai keempat menentukan warna yang digunakan pada bayangan.
   * Menggunakan Font dari Google Font
     - untuk memasukkan font external ke dalam CSS, dapat menggunakan @font-face.
+  * Menetapkan Nilai Warna (Numeric Value)
+    - menggunakan format rgb (red,green,blue)
+    - menggunakan format hex (hexadecimal)
+    - menggunakan format hsl (hue,saturation,light)
+  * Menetapkan Nilai Warna (Predefined Color Name)
+    - menggunakan nama warna
+  * Menentapkan Nilai Warna (Opacity) > 0.0 sampai 1.0
