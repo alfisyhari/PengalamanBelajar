@@ -431,4 +431,7 @@ Belajar Dasar Pemrograman Web
     - Relative Positioning membuat elemen bisa berpindah posisi ke atas, kanan, bawah, maupun kiri dari posisi semula atau posisi seharusnya elemen tersebut berada.
     - Absolute Positioning sama seperti relative, elemen akan dipindahkan keluar dari normal flow sehingga kita dapat memindahkan posisi elemen ke atas, kanan, bawah,       maupun kiri secara leluasa tanpa mengganggu elemen di sekitarnya. Namun posisinya relatif pada jendela browser dan induk elemen selama induk elemen juga berada         di luar dari normal flow.
     - Fixed Positioning merupakan absolute position namun posisinya selalu relatif pada jendela browser. Bahkan ketika pengguna scrolling pun, posisinya di layar akan       tetap tak berubah.
+    - Sticky Positioning merupakan nilai kombinasi dari relative positioning dan fixed positioning.
   * Floating dapat membuat elemen berada pada sebelah kanan atau kiri. saat diterapkan pada elemen inline, properti float juga memungkinkan elemen di sekitarnya           mengelilingi elemen tersebut (wrap).
+  * Clear Property
+  * Media Queries
