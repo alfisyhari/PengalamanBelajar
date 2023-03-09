@@ -436,3 +436,12 @@ Belajar Dasar Pemrograman Web
   * Clear Property
   * Media Queries
   * Flexbox
+    - flex container merupakan parent elemen dari seluruh flex items.
+    - flex items merupakan elemen yang secara langsung merupakan child dari parent element.
+    - flexbox memiliki arah layout yang didasarkan pada flex-direction.
+    - main axis: main axis dari flex container adalah sumbu utama yang mana flex items akan dijejerkan atau ditata, perlu diingat arah dari main axis tidak selalu           horizontal, hal ini bergantung terhadap value dari properti flex-direction.
+    - main-start | main-end : flex items akan ditempatkan dalam flex container yang berawal dari main-start dan main-end.
+    - main size : merupakan lebar atau tinggi dari flex item yang diposisikan pada sumbu utama (main axis).
+    - cross axis : adalah sumbu yang arahnya tegak lurus dengan main axis, biasanya terjadi ketika flexbox menerapkan value wrap pada properti flex-wrap, sehingga           susunan layout terlihat dua dimensi.
+    - cross-start | cross-end : flex item yang memenuhi ruang kosong flex container secara vertikal, dimulai dari cross-start hingga cross end, hal ini dapat diatur         menggunakan properti align-items, align-self, dan align-content.
+    - cross size : lebar atau tinggi dari sebuah flex item yang ditempatkan pada dimensi cross.
