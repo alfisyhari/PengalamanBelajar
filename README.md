@@ -445,3 +445,13 @@ Belajar Dasar Pemrograman Web
     - cross axis : adalah sumbu yang arahnya tegak lurus dengan main axis, biasanya terjadi ketika flexbox menerapkan value wrap pada properti flex-wrap, sehingga           susunan layout terlihat dua dimensi.
     - cross-start | cross-end : flex item yang memenuhi ruang kosong flex container secara vertikal, dimulai dari cross-start hingga cross end, hal ini dapat diatur         menggunakan properti align-items, align-self, dan align-content.
     - cross size : lebar atau tinggi dari sebuah flex item yang ditempatkan pada dimensi cross.
+  * Properti Flex Container
+    - Properti - properti ini akan berpengaruh secara langsung kepada flex items dalam menampilkan susunannya.
+    - Display untuk mengatur sifat elemen dengan value block dan inline.
+  * Flex Direction menentukan arah susunan flex items;row, row-reverse, column, dan column-reverse.
+  * Flex Direction:
+    - row : flex items akan disusun secara horizontal dari kiri ke kanan.
+    - row-reverse : flex items akan disusun secara horizontal, tetapi berarah terbalik (kanan ke kiri).
+    - column : flex items akan disusun secara vertikal dari atas ke bawah.
+    - column-reverse : flex items akan disusun secara vertikal, tetapi dengan arah terbalik (bawah ke atas).
+    
