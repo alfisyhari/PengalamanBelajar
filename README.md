@@ -447,11 +447,42 @@ Belajar Dasar Pemrograman Web
     - cross size : lebar atau tinggi dari sebuah flex item yang ditempatkan pada dimensi cross.
   * Properti Flex Container
     - Properti - properti ini akan berpengaruh secara langsung kepada flex items dalam menampilkan susunannya.
-    - Display untuk mengatur sifat elemen dengan value block dan inline.
+  * Display untuk mengatur sifat elemen dengan value block dan inline.
   * Flex Direction menentukan arah susunan flex items;row, row-reverse, column, dan column-reverse.
-  * Flex Direction:
+    - Flex Direction:
     - row : flex items akan disusun secara horizontal dari kiri ke kanan.
     - row-reverse : flex items akan disusun secara horizontal, tetapi berarah terbalik (kanan ke kiri).
     - column : flex items akan disusun secara vertikal dari atas ke bawah.
     - column-reverse : flex items akan disusun secara vertikal, tetapi dengan arah terbalik (bawah ke atas).
-    
+  * Flex Wrap berfungsi untuk mengubah flex items menjadi dua dimensi(jika dibutuhkan), contoh dari flex wrap;
+    - nowrap : flex items hanya akan ditempatkan dalam satu baris.
+    - wrap : flex items akan ditampilkan dalam multiple lines, yakni dari atas dan bawah.
+    - wrap-reverse : flex items akan ditampilkan dalam multiple lines, tetapi dari arah bawah ke atas.
+  * Justify Content akan mengatur posisi child elemen pada main axis, yang keuntungannya sangat dirasakan ketika membuat tampilan responsif.
+    - flex-start : peletakan child element akan dimulai dari main-start.
+    - flex-end : peletakan child element dimulai dari main end.
+    - center : child element akan diletakkan di tengah parent child.
+    - space-between: child element akan tersusun secara merata, elemen pertama berada di tepi main-start dan elemen kedua berada di tepi main-end. Jika child element         lebih dari dua, elemen lainnya akan didistribusikan berada di tengah dengan jarak yang sama.
+    - space-around: setiap child elemen akan memiliki panjang celah yang sama pada sisi horizontal.
+    - space-evenly: setiap child elemen akan memiliki jarak yang setara, termasuk jarak ke tepi main-start dan main-end.
+  * Align Items properti ini memiliki perilaku bagaimana menempatkan flex items sepanjang cross axis, dan dapat mengatur child element dalam satu baris pada cross         axis.
+    - stretch: melebar hingga memenuhi container dalam cross axis. Setiap child element akan memiliki nilai height yang sama, meskipun isi konten berbeda.
+    - flex-start: setiap child elemen akan memiliki ukuran height sesuai dengan isi konten serta seluruhnya akan berada di tepi cross-start.
+    - flex-end: setiap child element akan memiliki ukuran height sesuai dengan isi konten serta seluruhnya akan berada di tepi cross-end.
+    - center: setiap child elemen memiliki ukuran height sesuai dengan isi konten dan secara vertikal posisi elemen berada di tengah.
+    - baseline: nilai pada asalnya akan menyerupai flex-start. Namun, jika konten pertama pada masing-masing child element memiliki ukuran height yang berbeda, child         element lainnya akan menyesuaikan posisinya secara cross axis dari cross-start.
+  * Align Content properti ini melakukan perataan terhadap flex items di setiap baris pada cross-axis. Tingkah laku properti ini hampir mirip dengan properti               justify-content yang mengatur tata letak flex items di sisi main axis.
+    - normal (default): Jika kita tidak menerapkan value pada align content, flex items akan diposisikan secara default.
+    - flex-start: flex items di tata pada permulaan flex container.
+    - flex-end: flex items di tata pada akhir flex container.
+    - center: flex items diposisikan di tengah flex container.
+    - space-between: flex items akan disebar secara merata, yang mana item pertama akan diposisikan pada cross-start dan item terakhir akan diposisikan pada cross-end.
+    - space-around: flex items akan disebar secara merata dengan jarak celah yang sama juga.
+    - space-evenly: flex items akan disebar secara merata dengan jarak yang merata juga.
+  * Gap (celah) mirip seperti margin tapi lebih baik.
+  * Properti pada Flex Items
+    - Order secara asalnya, flex items akan diletakkan sesuai dengan urutan penulisan kode. Namun, dengan properti order, kita bisa mengatur urutan susunan flex items.
+    - Flex Grow Flex grow akan melakukan pendistribusian sisa ruang dalam container kepada seluruh child element dengan porsi yang sama (adil). Jika salah satu child         elemen memiliki flex grow dengan nilai dua, child element tersebut akan mendapatkan pembagian porsi dua kali lebih besar dibanding child element yang hanya             memiliki satu porsi. Nilai yang diberikan pada properti ini adalah angka tanpa satuan (unitless).
+    - Flex Shrink properti ini memiliki kemampuan untuk menyusutkan atau menciutkan ukuran child element jika ukurannya tidak mencukupi ruang container. Nilai yang           diberikan pada properti ini adalah angka tanpa satuan (unitless).
+    - Flex basis properti ini akan memberikan ukuran default sebelum sisa ruang container didistribusikan kepada flex items. Nilai yang didukung untuk properti ini           terkait ukuran dimensi (width dan height), yaitu 2rem, 20%, dan lainnya.
+    - Align self properti ini memiliki tingkah laku yang sama dengan properti align items. Properti ini dapat mengatur posisi child element secara cross-axis. Namun,         properti ini hanya berlaku untuk child element. Jika kita ingin mengecualikan child element di antara child element lainnya, gunakanlah properti ini.
