@@ -489,10 +489,18 @@ Belajar Dasar Pemrograman Web
    
 **Senin, 13 Maret 2023**
 Belajar Dasar Pemrograman Javascript
-  * Compiler adalah program komputer yang menerjemahkan kode yang ditulis dalam satu bahasa pemrograman ke bahasa lain yang dimengerti oleh mesin.
-  * Debugging adalah proses mengidentifikasi dan menghilangkan error pada aplikasi.
-  * Interpreter adalah program untuk menerjemahkan setiap baris kode dari bahasa pemrograman menjadi bahasa yang dimengerti oleh mesin secara langsung, tanpa melalui       proses kompilasi.
-  * Library adalah sekumpulan sumber daya, biasanya berupa kode atau program, yang memiliki fungsionalitas tertentu dan bisa digunakan pada program lain.
-  * Runtime adalah lingkungan, platform, atau sumber daya yang menjalankan suatu kode/program.
-  * String contenation adalah proses penggabungan dua string atau lebih menggunakan operator penjumlahan (+).
-  * String interpolation adalah proses mengganti placeholder di dalam string dengan nilai dari variabel tertentu.
+  * Glosarium
+    - Compiler adalah program komputer yang menerjemahkan kode yang ditulis dalam satu bahasa pemrograman ke bahasa lain yang dimengerti oleh mesin.
+    - Debugging adalah proses mengidentifikasi dan menghilangkan error pada aplikasi.
+    - Interpreter adalah program untuk menerjemahkan setiap baris kode dari bahasa pemrograman menjadi bahasa yang dimengerti oleh mesin secara langsung, tanpa melalui       proses kompilasi.
+    - Library adalah sekumpulan sumber daya, biasanya berupa kode atau program, yang memiliki fungsionalitas tertentu dan bisa digunakan pada program lain.
+    - Runtime adalah lingkungan, platform, atau sumber daya yang menjalankan suatu kode/program.
+    - String contenation adalah proses penggabungan dua string atau lebih menggunakan operator penjumlahan (+).
+    - String interpolation adalah proses mengganti placeholder di dalam string dengan nilai dari variabel tertentu.
+  * Pengenalan Javascript
+    - Javascript merupakan bahasa pemrograman tingkat tinggi untuk membuat website lebih interaktif.
+    - Javascript termasuk ke dalam kategori scripting language, artinya kode tidak perlu dikompilasi agar bisa dijalankan. Scripting language menggunakan interpreter         untuk menerjemahkan kode atau perintah yang dimengerti oleh mesin.
+    - Javascript termasuk bahasa yang case sensitive, CONSOLE.LOG tidak sama dengan console.log
+    - Javascript termasuk bahasa yang weakly typed language (maksudnya adalah tidak bisa mengikat suatu variabel dengan tipe data tertentu)
+    - Javascript memiliki automatically type casting (maksudnya adalah ketika angka ditambahkan string maka hasilnya bisa diubah menjadi string oleh Javascript)
+    - Javascript termasuk ECMA-262 Standard.
