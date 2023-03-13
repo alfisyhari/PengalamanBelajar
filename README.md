@@ -338,7 +338,7 @@ Belajar Dasar Pemrograman Web
     - Adjacent Sibling Selector menggabungkan dua buah basic selector dengan menggunakan tanda plus + di antara keduanya. Adjacent Sibling Selector terdiri dari dua         buah target elemen, namun hanya elemen kedua yang menerapkan rule selama elemen tersebut dituliskan langsung setelah elemen pertama pada berkas HTML. Selain itu       kedua elemen tersebut harus berada di induk elemen yang sama.
     - General Sibling Selector namun rules akan diterapkan pada seluruh elemen kedua yang berada di elemen pertama. Dengan catatan induknya sama, walaupun posisi ini         elemen kedua tidak berada tepat setelahnya. Selector ini menggunakan tanda ~.
 
- **Kamis, 09 Maret 2023**
+**Kamis, 09 Maret 2023**
 Belajar Dasar Pemrograman Web
   * Combinators
     - Child Selector menggabungkan dua buah basic selector dengan menggunakan tanda greater than diantara basic selectornya.
@@ -486,3 +486,7 @@ Belajar Dasar Pemrograman Web
     - Flex Shrink properti ini memiliki kemampuan untuk menyusutkan atau menciutkan ukuran child element jika ukurannya tidak mencukupi ruang container. Nilai yang           diberikan pada properti ini adalah angka tanpa satuan (unitless).
     - Flex basis properti ini akan memberikan ukuran default sebelum sisa ruang container didistribusikan kepada flex items. Nilai yang didukung untuk properti ini           terkait ukuran dimensi (width dan height), yaitu 2rem, 20%, dan lainnya.
     - Align self properti ini memiliki tingkah laku yang sama dengan properti align items. Properti ini dapat mengatur posisi child element secara cross-axis. Namun,         properti ini hanya berlaku untuk child element. Jika kita ingin mengecualikan child element di antara child element lainnya, gunakanlah properti ini.
+   
+**Senin, 13 Maret 2023**
+Belajar Dasar Pemrograman Javascript
+  * 
