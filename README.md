@@ -512,4 +512,14 @@ Bealajr Dasar Pemrograman Javascript
     - expression merupakan kode yang menghasilkan nilai.
     - statement menunjukkan aksi yang dilakukan.
   * Comments adalah instruksi yang ditulis dalam suatu program tetapi tidak dijalankan oleh komputer (interpreter atau compiler)
-    - membuat komentar pada Javascript bisa menggunakan (//) atau (/**/)
+    - membuat komentar pada Javascript bisa menggunakan ( /ini adalah komentar/ ) atau ( /*ini adalah komentar*/ )
+  * Variabel digunakan untuk menyimpan informasi atau nilai yang akan dikelola dalam sebuah program.
+    - Javascript terdapat tiga cara untuk mendeklarasikan sebuah variabel seperti keyword var, let, dan const. Namun pada ECMAScript 2015 (ES6) variabel var dianggap         kontroversial dan tidak disarankan digunakan. Jadi dalam pembelajaran ini kebanyakan menggunakan variabel let dan const.
+    - var dinilai kontroversial dan rawan menimbulkan bug.
+    - let lastName; variabel ini dikenal dengan declaration statement.
+    - let lastName = "Skywalker"; variabel ini dikenal dengan assignment expression.
+  * Aturan dalam penamaan variabel :
+    - harus dimulai dengan huruf atau underscore ( _ )
+    - dapat terdiri dari huruf, angka, dan underscore ( _ ) dengan berbagai kombinasi.
+    - tidak boleh mengandung spasi (whitespace), jika penamaan variabel lebih dari dua kata, tuliskan secara camelCase. contoh firstName, lastName, catName, dll.
+    - tidak boleh mengandung karakter spesial (!.,/\+* = dll)
