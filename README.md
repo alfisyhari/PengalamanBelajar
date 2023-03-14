@@ -504,3 +504,10 @@ Belajar Dasar Pemrograman Javascript
     - Javascript termasuk bahasa yang weakly typed language (maksudnya adalah tidak bisa mengikat suatu variabel dengan tipe data tertentu)
     - Javascript memiliki automatically type casting (maksudnya adalah ketika angka ditambahkan string maka hasilnya bisa diubah menjadi string oleh Javascript)
     - Javascript termasuk ECMA-262 Standard.
+
+**Selasa, 14 Maret 2023**
+Bealajr Dasar Pemrograman Javascript
+  * console.log adalah kode bawaan Javascript untuk menampilkan pesan ke konsol, bisa berupa web konsol atau konsol dari terminal/command prompt.
+  * Javascript membagi instruksi secara umum menjadi 2 jenis, yaitu expression dan statement.
+    - expression merupakan kode yang menghasilkan nilai.
+    - statement menunjukkan aksi yang dilakukan.
