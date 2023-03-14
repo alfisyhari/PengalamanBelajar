@@ -523,3 +523,4 @@ Bealajr Dasar Pemrograman Javascript
     - dapat terdiri dari huruf, angka, dan underscore ( _ ) dengan berbagai kombinasi.
     - tidak boleh mengandung spasi (whitespace), jika penamaan variabel lebih dari dua kata, tuliskan secara camelCase. contoh firstName, lastName, catName, dll.
     - tidak boleh mengandung karakter spesial (!.,/\+* = dll)
+  * Const merupakan 
