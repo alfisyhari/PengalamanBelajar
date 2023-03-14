@@ -511,3 +511,5 @@ Bealajr Dasar Pemrograman Javascript
   * Javascript membagi instruksi secara umum menjadi 2 jenis, yaitu expression dan statement.
     - expression merupakan kode yang menghasilkan nilai.
     - statement menunjukkan aksi yang dilakukan.
+  * Comments adalah instruksi yang ditulis dalam suatu program tetapi tidak dijalankan oleh komputer (interpreter atau compiler)
+    - membuat komentar pada Javascript bisa menggunakan (//) atau (/**/)
