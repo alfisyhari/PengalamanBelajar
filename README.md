@@ -506,7 +506,7 @@ Belajar Dasar Pemrograman Javascript
     - Javascript termasuk ECMA-262 Standard.
 
 **Selasa, 14 Maret 2023**
-Bealajr Dasar Pemrograman Javascript
+Belajar Dasar Pemrograman Javascript
   * console.log adalah kode bawaan Javascript untuk menampilkan pesan ke konsol, bisa berupa web konsol atau konsol dari terminal/command prompt.
   * Javascript membagi instruksi secara umum menjadi 2 jenis, yaitu expression dan statement.
     - expression merupakan kode yang menghasilkan nilai.
@@ -524,3 +524,8 @@ Bealajr Dasar Pemrograman Javascript
     - tidak boleh mengandung spasi (whitespace), jika penamaan variabel lebih dari dua kata, tuliskan secara camelCase. contoh firstName, lastName, catName, dll.
     - tidak boleh mengandung karakter spesial (!.,/\+* = dll)
   * Const merupakan kependekan dari constant, artinya kita akan mendeklarasikan sebuah variabel dengan const ketika ingin variabel bernilai konstan dan tidak bisa         diubah setelah diinisialisasi nilainya.
+
+**Rabu, 15 Maret 2023**
+Belajar Dasar Pemrograman Javascript
+  * Tipe data merupakan pengklasifikasian data berdasarkan jenisnya, pada javascript memiliki tipe data sebagai berikut :
+    - undefined
