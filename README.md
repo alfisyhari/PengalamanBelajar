@@ -530,3 +530,6 @@ Belajar Dasar Pemrograman Javascript
   * Tipe data merupakan pengklasifikasian data berdasarkan jenisnya, pada javascript memiliki tipe data sebagai berikut :
     - undefined, tipe data ini terbentuk ketika sebuah variabel tidak memiliki nilai, artinya ketika kita mendeklarasikan variabel tanpa menginisialisasikan nilainya,       variabel tersebut menjadi undefined.
     - number, tipe data yang memuat angka, pada tipe data ini kita bisa menggunakan perhitungan aritmatika seperti, penjumlahan, pengurangan, pembagian, perkalian,           sisa hasil bagi, perpangkatan. tipe data ini memiliki operator increment (++) dan decrement (--) atau digunakan untuk menambahkan atau mengurangi nilai 1 pada         nilai variabel yang ada sekarang. jika dituliskan setelah variabel (x++) expression akan menghasilkan nilai variabel sebelum ditingkatkan nilainya dan jika             dituliskan sebelum (++x), expression akan menghasilkan nilai variabel setelah ditingkatkan nilainya.
+ 
+**Kamis, 16 Maret 2023**
+    - 
