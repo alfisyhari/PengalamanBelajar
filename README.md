@@ -580,3 +580,6 @@ Belajar Dasar Pemrograman Javascript
      - variabel i sebagai index iterasi, pada variabel ini kita menginisialisasi nilai awal dari perulangan.
      - kedua, operasi perbandingan, pada bagian ini javascript akan melakukan pengecekan kondisi apakah perulangan masih perlu dilakukan, jika bernilai true, maka kode        di dalam blok for akan dijalankan.
      - ketiga, increment/decrement, disini kita melakukan penambahan atau pengurangan variabel iterasi, jadi pada contoh di atas variabel i akan ditambah dengan 1 di          setiap akhir perulangan, perubahan nilai ini penting karena jika kita mengubah nilainya, proses perulangan dapat terus berjalan selama kondisinya terpenuhi.
+     - for of loop, cara lain dalam melakukan looping adalah menggunakan for...of, for of mulai hadir pada ECMAScript 2015, cara ini jauh lebih sederhana dan modern          dibanding for loop biasa.
+     - while and do-while, untuk melakukan looping adalah dengan statement while, sama seperti for, instruksi while mengevaluasi ekspresi boolean dan menjalankan kode        di dalam blok while ketika bernilai true.
+     - contohnya let i = 1; while (i <= 100) {console.log(i);i++;}
