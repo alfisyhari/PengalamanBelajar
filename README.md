@@ -573,3 +573,9 @@ Belajar Dasar Pemrograman Javascript
     - NaN, atau Not a Number
    * Switch Case Management, digunakan untuk melakukan pengecekan banyak kondisi dengan lebih mudah dan ringkas.
     - tanda kurung setelah keyword switch berisi variabel atau expression yang akan dievaluasi, kemudian untuk setiap kondisi yang mungkin terjadi. kita memasukkan           case diikuti dengan nilai yang valid. jika kondisi pada case yang sama dengan variabel switch, maka blok kode setelah titik dua akan dijalankan. keyword break         digunakan untuk keluar dari proses switch. terdapat satu case bernama default yang memiliki fungsi yang sama dengan keyword else pada control flow if-else. jika       tidak ada nilai yang sama dengan variabel switch, maka blok kode ini akan dijalankan.
+   * Loop, akan ada situasi di mana kita perlu melakukan hal yang sama berkali-kali. misalnya kita ingin menampilkan semua nama pengguna yang terdaftar di aplikasi          atau sesederhana menampilkan angka 1 sampai 10, tentunya tidak praktis jika kita menulis kode seperti berikut.
+     - for loop, dari beberapa cara melakukan proses loop pada javascript, for merupakan salah satu cara yang banyak digunakan. 
+     - contohnya for(let i = 0; i < 5; i++){ console.log(i);}
+     - variabel i sebagai index iterasi, pada variabel ini kita menginisialisasi nilai awal dari perulangan.
+     - kedua, operasi perbandingan, pada bagian ini javascript akan melakukan pengecekan kondisi apakah perulangan masih perlu dilakukan, jika bernilai true, maka kode        di dalam blok for akan dijalankan.
+     - ketiga, increment/decrement, disini kita melakukan penambahan atau pengurangan variabel iterasi, jadi pada contoh di atas variabel i akan ditambah dengan 1 di          setiap akhir perulangan, perubahan nilai ini penting karena jika kita mengubah nilainya, proses perulangan dapat terus berjalan selama kondisinya terpenuhi.
