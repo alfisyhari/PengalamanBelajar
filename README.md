@@ -572,3 +572,4 @@ Belajar Dasar Pemrograman Javascript
     - undefined
     - NaN, atau Not a Number
    * Switch Case Management, digunakan untuk melakukan pengecekan banyak kondisi dengan lebih mudah dan ringkas.
+    - tanda kurung setelah keyword switch berisi variabel atau expression yang akan dievaluasi, kemudian untuk setiap kondisi yang mungkin terjadi. kita memasukkan           case diikuti dengan nilai yang valid. jika kondisi pada case yang sama dengan variabel switch, maka blok kode setelah titik dua akan dijalankan. keyword break         digunakan untuk keluar dari proses switch. terdapat satu case bernama default yang memiliki fungsi yang sama dengan keyword else pada control flow if-else. jika       tidak ada nilai yang sama dengan variabel switch, maka blok kode ini akan dijalankan.
