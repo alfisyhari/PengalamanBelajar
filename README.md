@@ -562,3 +562,12 @@ Belajar Dasar Pemrograman Javascript
     - || operator atau (or), logika akan menghasilkan nilai true apabila ada salah satu kondisi terpenuhi (bernilai true).
     - ! operator tidak (not), digunakan untuk membalikkan suatu kondisi. 
   * If/Else Statement, statement if akan menguji suatu kondisi. Jika kondisi bernilai true, maka blok kode di dalamnya akan dijalankan. Sebaliknya, jika bernilai           false, maka proses yang ditentukan akan dilewatkan.
+    - selain if statement, javascript mendukung ternary operator atau conditional expressions.
+    - truthy & falsy, nilai truthy berarti nilai yang ketika dievaluasi akan menghasilkan nilai true, begitu pula falsy bernilai false.
+    - Selain nilai boolean false, tipe data atau nilai yang dianggap falsy, antara lain:
+    - Number 0
+    - BigInt 0n
+    - String kosong seperti “” atau ‘’
+    - null
+    - undefined
+    - NaN, atau Not a Number
