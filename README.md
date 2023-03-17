@@ -561,3 +561,4 @@ Belajar Dasar Pemrograman Javascript
     - && operator dan (and), logika akan menghasilkan nilai true apabila semua kondisi terpenuhi (bernilai true).
     - || operator atau (or), logika akan menghasilkan nilai true apabila ada salah satu kondisi terpenuhi (bernilai true).
     - ! operator tidak (not), digunakan untuk membalikkan suatu kondisi. 
+  * If/Else Statement, statement if akan menguji suatu kondisi. Jika kondisi bernilai true, maka blok kode di dalamnya akan dijalankan. Sebaliknya, jika bernilai           false, maka proses yang ditentukan akan dilewatkan.
