@@ -554,3 +554,10 @@ Belajar Dasar Pemrograman Javascript
     - >= berfungsi membandingkan dua nilai apakah nilai pertama lebih atau sama dengan nilai kedua.
     - < berfungsi membandingkan dua nilai apakah nilai pertama kurang dari nilai kedua.
     - <= berfungsi membandingkan dua nilai apakah nilai pertama kurang atau sama dengan nilai kedua.
+  * Perbedaan antara sama dengan identik
+    - dalam operator komparasi di javascript, hal yang menjadi tricky adalah membedakan antara "sama" (==) dan "identik" (===).
+  * Logical Operator
+    - dengan logical operator kita dapat menggunakan kombinasi dari dua nilai boolean atau bahkan lebih dalam menetapkan logika.
+    - && operator dan (and), logika akan menghasilkan nilai true apabila semua kondisi terpenuhi (bernilai true).
+    - || operator atau (or), logika akan menghasilkan nilai true apabila ada salah satu kondisi terpenuhi (bernilai true).
+    - ! operator tidak (not), digunakan untuk membalikkan suatu kondisi. 
