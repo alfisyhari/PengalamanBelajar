@@ -537,3 +537,20 @@ Belajar Dasar Pemrograman Javascript
     - boolean, hanya memiliki dua nilai yaitu True atau False, tipe data ini menjadi kunci utama dalam penentuan logika.
     - null, serupa dengan undefined, namun null perlu diinisialisasikan pada variabel. null bisa digunakan sebagai nilai sementara pada variabel, tapi sebenarnya nilai       tersebut tidak ada.
     - symbol, tipe data baru yang dikenalkan ES6, digunakan untuk menunjukkan identifier yang unik, ketika membuat symbol, kita bisa memberikan deskripsi atau nama           symbol. symbol disebut sebagai identifier yang unik karena meskipun kita membuat dua variabel symbol dengan nama atau deskripsi yang sama, kedua nilainya tetap         dianggap berbeda. symbol ini digunakan sebagai nama property dari object. object merupakan tipe data kompleks untuk menyimpan berbagai struktur data.
+  * Operator adalah simbol yang memberi tahu interpreter untuk melakukan operasi seperti matematika, relasional, atau logika untuk memberikan hasil tertentu.
+  * Assignment Operator digunakan untuk memberikan nilai pada variabel.
+    - assignment operator memiliki expression, ini bisa digunakan untuk perkalian, pengurangan, pembagian, dan lainnya.
+    - x += y; artinya x = x + y;
+    - x -= y; artinya x = x - y;
+    - x *= y; artinya x = x * y;
+    - x /= y; artinya x = x / y;
+    - x %= y; artinya x = x % y;
+  * Comparison Operator digunakan untuk membandingkan nilai pada javascript.
+    - == berfungsi membandingkan kedua nilai apakah sama (tidak identik)
+    - != berfungsi membandingkan kedua nilai apakah tidak sama (tidak identik)
+    - === berfungsi membandingkan kedua nilai apakah identik.
+    - !== berfungsi membandingkan kedua nilai apakah tidak identik.
+    - > berfungsi membandingkan dua nilai apakah nilai pertama lebih dari nilai kedua.
+    - >= berfungsi membandingkan dua nilai apakah nilai pertama lebih atau sama dengan nilai kedua.
+    - < berfungsi membandingkan dua nilai apakah nilai pertama kurang dari nilai kedua.
+    - <= berfungsi membandingkan dua nilai apakah nilai pertama kurang atau sama dengan nilai kedua.
