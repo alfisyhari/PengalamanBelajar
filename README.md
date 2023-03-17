@@ -571,3 +571,4 @@ Belajar Dasar Pemrograman Javascript
     - null
     - undefined
     - NaN, atau Not a Number
+   * Switch Case Management, digunakan untuk melakukan pengecekan banyak kondisi dengan lebih mudah dan ringkas.
