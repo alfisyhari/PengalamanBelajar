@@ -588,10 +588,13 @@ Belajar Dasar Pemrograman Javascript
 **Senin, 20 Maret 2023**
 Belajar Dasar Pemrograman Javascript
    * Video Fundamental Javascript (modul 2)
-   - Memahami tipe data Javascript
-   - Tipe data String adalah sekumpulan karakter.
-   - Tipe data Number adalah mempresentasikan suatu bilangan, baik bulat maupun desimal.
-   - Tipe data Boolean adalah memiliki dua nilai, True dan False.
-   - Tipe data Undefined adalah sesuatu yang tidak terdefinisi, seperti sebuah variabel yang tidak terdefinisikan nilai apapun.
-   - Tipe data Null adalah sebuah nilai yang mempresentasikan nilai kosong (tak bernilai).
-   - Tipe data Object adalah kumpulan nilai-nilai yang dipasang-pasangkan dengan key(kunci).
+     - Memahami tipe data Javascript
+     - Tipe data String adalah sekumpulan karakter.
+     - Tipe data Number adalah mempresentasikan suatu bilangan, baik bulat maupun desimal.
+     - Tipe data Boolean adalah memiliki dua nilai, True dan False.
+     - Tipe data Undefined adalah sesuatu yang tidak terdefinisi, seperti sebuah variabel yang tidak terdefinisikan nilai apapun.
+     - Tipe data Null adalah sebuah nilai yang mempresentasikan nilai kosong (tak bernilai).
+     - Tipe data Object adalah kumpulan nilai-nilai yang dipasang-pasangkan dengan key(kunci).
+   * Expression & Statement JavaScript
+     - Expression akan menghasilkan nilai ketika dijalankan dan dapat dimanfaatkan secara langsung.
+     - Statement sebuah perintah untuk melakukan aksi atau tindakan tertentu (tidak menghasilkan nilai).
