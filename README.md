@@ -622,4 +622,5 @@ Belajar Dasar Pemrograman Javascript
      - += menambahkan nilai operand1 dengan nilai operand2.
      - -= mengurangi nilai operand1 dengan nilai operand2.
      - *= mengalikan nilai operand1 dengan nilai operand2.
+     - Comparison Operator, untuk membandingkan 2 operand, seperti >, >=, <, <=, ==, !=, ===, ! ==.
      - Control Flow (Percabangan & Perulangan / Looping)
