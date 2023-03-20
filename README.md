@@ -588,39 +588,3 @@ Belajar Dasar Pemrograman Javascript
 **Senin, 20 Maret 2023**
 Belajar Dasar Pemrograman Javascript
    * Video Fundamental Javascript (modul 2)
-     - Memahami tipe data Javascript
-     - Tipe data String adalah sekumpulan karakter.
-     - Tipe data Number adalah mempresentasikan suatu bilangan, baik bulat maupun desimal.
-     - Tipe data Boolean adalah memiliki dua nilai, True dan False.
-     - Tipe data Undefined adalah sesuatu yang tidak terdefinisi, seperti sebuah variabel yang tidak terdefinisikan nilai apapun.
-     - Tipe data Null adalah sebuah nilai yang mempresentasikan nilai kosong (tak bernilai).
-     - Tipe data Object adalah kumpulan nilai-nilai yang dipasang-pasangkan dengan key(kunci).
-   * Expression & Statement JavaScript
-     - Expression akan menghasilkan nilai ketika dijalankan dan dapat dimanfaatkan secara langsung.
-     - Statement sebuah perintah untuk melakukan aksi atau tindakan tertentu (tidak menghasilkan nilai).
-   * Variabel JavaScript
-     - Variabel merupakan sesuatu yang dapat menyimpan suatu nilai dan yang bisa diganti nantinya.
-     - Variabel dibagi menjadi 3 yaitu, var, let, const.
-     - Variabel var merupakan variabel lama yang dapat menimbulkan kebingungan dan tidak disarankan.
-     - Variabel let dan const merupakan variabel baru.
-     - Variabel let digunakan untuk melakukan inisialisasi ulang, jika variabel ini sudah memiliki sebuah nilai, maka variabel ini juga bisa diisi dengan variabel            baru.
-     - Variabel const bersifat konstanta, variabel ini tidak bisa di inisialisasi ulang.
-   * Mengenal Operator, Percabangan, dan Perulangan di JavaScript.
-     - Operator adalah simbol-simbol yang digunakan untuk melakukan sebuah operasi.
-     - Pada JavaScript memiliki 3 operator, seperti unary, binary, dan ternary.
-     - Unary Operator, operator operand.
-     - Binary Operator, operand operator operand.
-     - Ternary Operator, operand operator operand operand.
-     - operand merupakan nilai bisa juga di dapat dari statement, expression, yang digunakan oleh operator untuk melakukan operasi.
-     - Unary Operator, umumnya memiliki dua operator yang sering digunakan seperti typeof dan delete.
-     - typeof digunakan untuk mengembalikan tipe data operand dalam bentuk string.
-     - delete digunakan untuk menghapus properti objek.
-     - Binary Operator, dibagi lagi menjadi 4 yaitu, aritmatika(arithmetic), penugasan(assignment), komparasi(comparison), dan logika(logical).
-     - Arithmetic Operator, bisa digunakan untuk penambahan, pengurangan, perkalian, pembagian, dan modulus (sisa bagi).
-     - Assignment Operator, memiliki beberapa jenis seperti =, +=, -=, dan *=.
-     - = menetapkan nilai operand1 dengan nilai operand2.
-     - += menambahkan nilai operand1 dengan nilai operand2.
-     - -= mengurangi nilai operand1 dengan nilai operand2.
-     - *= mengalikan nilai operand1 dengan nilai operand2.
-     - Comparison Operator, untuk membandingkan 2 operand, seperti >, >=, <, <=, ==, !=, ===, ! ==.
-     - Control Flow (Percabangan & Perulangan / Looping)
