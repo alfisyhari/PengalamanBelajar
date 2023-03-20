@@ -598,3 +598,18 @@ Belajar Dasar Pemrograman Javascript
    * Expression & Statement JavaScript
      - Expression akan menghasilkan nilai ketika dijalankan dan dapat dimanfaatkan secara langsung.
      - Statement sebuah perintah untuk melakukan aksi atau tindakan tertentu (tidak menghasilkan nilai).
+   * Variabel JavaScript
+     - Variabel merupakan sesuatu yang dapat menyimpan suatu nilai dan yang bisa diganti nantinya.
+     - Variabel dibagi menjadi 3 yaitu, var, let, const.
+     - Variabel var merupakan variabel lama yang dapat menimbulkan kebingungan dan tidak disarankan.
+     - Variabel let dan const merupakan variabel baru.
+     - Variabel let digunakan untuk melakukan inisialisasi ulang, jika variabel ini sudah memiliki sebuah nilai, maka variabel ini juga bisa diisi dengan variabel            baru.
+     - Variabel const bersifat konstanta, variabel ini tidak bisa di inisialisasi ulang.
+   * Mengenal Operator, Percabangan, dan Perulangan di JavaScript.
+     - Operator adalah simbol-simbol yang digunakan untuk melakukan sebuah operasi.
+     - Pada JavaScript memiliki 3 operator, seperti unary, binary, dan ternary.
+     - Unary Operator, operator operand.
+     - Binary Operator, operand operator operand.
+     - Ternary Operator, operand operator operand operand.
+     - operand merupakan nilai bisa juga di dapat dari statement, expression, yang digunakan oleh operator untuk melakukan operasi.
+     - Control Flow (Percabangan & Perulangan / Looping)
