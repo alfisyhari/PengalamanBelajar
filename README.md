@@ -604,3 +604,7 @@ Belajar Dasar Pemrograman Javascript
      - metode unshift(), adalah fungsi untuk menambahkan elemen di awal array.
      - metode delete, adalah fungsi untuk menghapus data array.
      - metode splice(), adalah fungsi untuk menghapus elemen.
+   * Spread Operator merupakan fitur yang digunakan untuk menyebarkan nilai array atau lebih tepatnya iterable object menjadi beberapa elemen, spread operator              dituliskan dengan tiga titik.
+     - cara penulisannya adalah menggunakan ...(nama variabel).
+   * Destructuring Object & Array
+     - iterasi object dan array adalahd dua hal yang paling banyak digunakan dalam mengelola data di JavaScript .JSON (JavaScript Object Notation) merupakan format            data paling populer yang digunakan dalam transaksi data saat ini.
