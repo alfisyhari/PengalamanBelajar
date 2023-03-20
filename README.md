@@ -597,3 +597,10 @@ Belajar Dasar Pemrograman Javascript
      - object memiliki key dan value yang juga dikenal sebagai property, key berperan mirip seperti nama variabel yang menyimpan sebuah nilai, sementara value berisi          nilai dengan tipe data apapun termasuk objek lain. key harus berupa string dan dituliskan sebelum titik dua, lalu diikuti dengan valuenya. kita bisa menggunakan        karakter khusus seperti tanda petik dua jika memiliki value dengan adanya spasi. selain dot operator, kita juga bisa mengakses properti dari object menggunakan        bracket atau tanda kurung siku. untuk mengakses key yang memiliki spasi atau karakter khusus lainnya maka kita perlu melakukan bracket [ key ].
    * Array merupakan tipe data yang dapat mengelompokkan lebih dari satu nilai dan menempatkannya dalam satu variabel.
      - perbedaan array dengan object adalah data pada array disusun secara berurutan dan diakses menggunakan index, untuk mengakses nilai di dalam array, kita gunakan        tanda kurung siku ( [] ) yang di dalamnya berisi angka yang merupakan posisi nilai yang ingin diakses.
+     - dalam array indeks dimulai dari 0.
+     - metode push(), adalah fungsi untuk menambahkan data di akhir array.
+     - metode pop(), adalah fungsi untuk mengeluarkan data atau elemen terakhir dari array.
+     - metode shift(), adalah fungsi untuk mengeluarkan elemen pertama dari array.
+     - metode unshift(), adalah fungsi untuk menambahkan elemen di awal array.
+     - metode delete, adalah fungsi untuk menghapus data array.
+     - metode splice(), adalah fungsi untuk menghapus elemen.
