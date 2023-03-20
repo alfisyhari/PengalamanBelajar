@@ -584,3 +584,8 @@ Belajar Dasar Pemrograman Javascript
      - while and do-while, untuk melakukan looping adalah dengan statement while, sama seperti for, instruksi while mengevaluasi ekspresi boolean dan menjalankan kode        di dalam blok while ketika bernilai true.
      - contohnya let i = 1; while (i <= 100) {console.log(i);i++;}
    * Infinite Loops, ketika melakukan perulangan pada program, ada satu kondisi yang perlu kita hindari yaitu infinite loop, dimana kondisi di mana program kita            stucked di dalam perulangan, ia akan berjalan terus hingga menyebabkan crash pada aplikasi dan komputer kecuali ada intervensi secara eksternal, seperti mematikan      aplikasi.
+
+**Senin, 20 Maret 2023**
+Belajar Dasar Pemrograman Javascript
+   * Video Fundamental Javascript (modul 2)
+   - 
