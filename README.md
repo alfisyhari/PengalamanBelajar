@@ -612,4 +612,14 @@ Belajar Dasar Pemrograman Javascript
      - Binary Operator, operand operator operand.
      - Ternary Operator, operand operator operand operand.
      - operand merupakan nilai bisa juga di dapat dari statement, expression, yang digunakan oleh operator untuk melakukan operasi.
+     - Unary Operator, umumnya memiliki dua operator yang sering digunakan seperti typeof dan delete.
+     - typeof digunakan untuk mengembalikan tipe data operand dalam bentuk string.
+     - delete digunakan untuk menghapus properti objek.
+     - Binary Operator, dibagi lagi menjadi 4 yaitu, aritmatika(arithmetic), penugasan(assignment), komparasi(comparison), dan logika(logical).
+     - Arithmetic Operator, bisa digunakan untuk penambahan, pengurangan, perkalian, pembagian, dan modulus (sisa bagi).
+     - Assignment Operator, memiliki beberapa jenis seperti =, +=, -=, dan *=.
+     - = menetapkan nilai operand1 dengan nilai operand2.
+     - += menambahkan nilai operand1 dengan nilai operand2.
+     - -= mengurangi nilai operand1 dengan nilai operand2.
+     - *= mengalikan nilai operand1 dengan nilai operand2.
      - Control Flow (Percabangan & Perulangan / Looping)
