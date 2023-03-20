@@ -588,3 +588,8 @@ Belajar Dasar Pemrograman Javascript
 **Senin, 20 Maret 2023**
 Belajar Dasar Pemrograman Javascript
    * Video Fundamental Javascript (modul 2)
+   * Pengenalan Struktur Data
+     - Object
+     - Array
+     - Map
+     - Set
