@@ -615,3 +615,7 @@ Belajar Dasar Pemrograman Javascript
      - penulisan sintaksis destructuring object pada ES6 menggunakan object literal ( {} ) di sisi kiri dari operator assignment.
    * Destructuring Assignment
      - pada destructuring assigment perlu menuliskan destructuring object di dalam tanda kurung, jika tidak javascript akan menganggapnya sebagai block statement.
+   * Default Values
+     - ketika kita mendestruksikan objek dan menetapkan variabel dengan nama yang bukan merupakan properti dari objek, maka nilai dari variabel tersebut menjadi              undefined.
+   * Assigning to Different Local Variable Names
+     - dalam proses destrukturisasi object kita bisa menggunakan penamaan variabel lokal yang berbeda, dengan ES6 menyediakan sintaksis tambahan yang membuat kita            dapat melakukan hal tersebut, penulisannya mirip seperti ketika kita membuat properti beserta nilainya pada object.
