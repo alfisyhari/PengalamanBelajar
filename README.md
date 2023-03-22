@@ -629,3 +629,10 @@ Belajar Dasar Pemrograman Javascript
    * Default Values
      - ketika melakukan destructuring array, tetapi terdapat variabel yang posisinya tidak dapat terjangkau oleh array, maka variabel tersebut akan bernilai undefined.
      - sama seperti object, pada destructuring array kita juga dapat memberikan nilai default pada variabel yang tidak dapat terjangkau oleh array, sehingga nilai pada        variabel tidak akan menjadi undefined.
+   * Map
+     - adalah tipe yang menyimpan koleksi data dengan format key-value layaknya object. yang membedakan adalah map memperbolehkan key dengan tipe data apa pun,                dibandingkan object yang hanya mengizinkan key bertipe string atau simbol.
+     - apabila ingin menetapkan nilai dari map secara langsung, gunakan array multi dimensi.
+     - ketika sudah membuat objek map, kita bisa mendapatkan nilai berdasarkan key tertentu dengan metode get().
+     - lalu untuk menambahkan pasangan key-value baru gunakan metode set().
+   * Set
+     - merupakan kumpulan nilai (set of values), hal yang membedakan set dengan struktur data yang lain adalah data pada set tidak berurutan dan juga tidak diindeks.          selain itu, data di dalam set juga bersifat unik dan tidak ada duplikasi.
