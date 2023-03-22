@@ -639,3 +639,11 @@ Belajar Dasar Pemrograman Javascript
      - untuk menambahkan data ke dalam Set kita bisa memanfaatkan fungsi add().
      - fungsi add() hanya menerima satu argumen, jika kita memasukkan array, maka array tersebut akan dianggap sebagai satu elemen sendiri, nilai yang duplikat akan          diabaikan.
      - fungsi delete() untuk menghapus elemen di dalam set.
+   * WeakMap & WeakSet
+     - Weakmap merupakan varian dari Map yang mendukung garbage collection.
+     - Garbage Collection adalah proses dimana interpreter JavaScript mengambil kembali memori yang tidak lagi "dapat dijangkau", dan tidak dapat digunakan oleh              program.
+     - yang dimaksud weak dalam Weakmap adalah referensi terhadap nilai yang disimpan. apabila suatu nilai yang disimpan di WeakMap sudah tidak terjangkau atau tidak          bisa lagi diakses, maka referensi ke memorinya akan dihapus.
+     - berikut ini adalah beberapa hal yang membedakan antara map dan weakmap:
+     - Key dari weakmap harus berupa object atau array, nilai primitif tidak bisa digunakan sebagai key karena tidak mendukung garbage collection.
+     - WeakMap memiliki method get(), set(), has(), dan delete(). namun WeakMap tidak termasuk kategori iterable sehingga tidak memiliki method keys(), values(), atau        forEach().
+     - WeakMap juga tidak memiliki property size, ini karena ukuran WeakMap dapat berubah karena proses garbage collection.
