@@ -648,3 +648,4 @@ Belajar Dasar Pemrograman Javascript
      - WeakMap memiliki method get(), set(), has(), dan delete(). namun WeakMap tidak termasuk kategori iterable sehingga tidak memiliki method keys(), values(), atau        forEach().
      - WeakMap juga tidak memiliki property size, ini karena ukuran WeakMap dapat berubah karena proses garbage collection.
      - setTimeout merupakan fungsi yang digunakan untuk menunda eksekusi kode yang ada di dalamnya hingga jangka waktu yang ditetapkan.
+    * Menonton video modul 3 struktur data.
