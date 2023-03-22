@@ -636,3 +636,6 @@ Belajar Dasar Pemrograman Javascript
      - lalu untuk menambahkan pasangan key-value baru gunakan metode set().
    * Set
      - merupakan kumpulan nilai (set of values), hal yang membedakan set dengan struktur data yang lain adalah data pada set tidak berurutan dan juga tidak diindeks.          selain itu, data di dalam set juga bersifat unik dan tidak ada duplikasi.
+     - untuk menambahkan data ke dalam Set kita bisa memanfaatkan fungsi add().
+     - fungsi add() hanya menerima satu argumen, jika kita memasukkan array, maka array tersebut akan dianggap sebagai satu elemen sendiri, nilai yang duplikat akan          diabaikan.
+     - fungsi delete() untuk menghapus elemen di dalam set.
