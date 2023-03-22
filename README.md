@@ -619,3 +619,5 @@ Belajar Dasar Pemrograman Javascript
      - ketika kita mendestruksikan objek dan menetapkan variabel dengan nama yang bukan merupakan properti dari objek, maka nilai dari variabel tersebut menjadi              undefined.
    * Assigning to Different Local Variable Names
      - dalam proses destrukturisasi object kita bisa menggunakan penamaan variabel lokal yang berbeda, dengan ES6 menyediakan sintaksis tambahan yang membuat kita            dapat melakukan hal tersebut, penulisannya mirip seperti ketika kita membuat properti beserta nilainya pada object.
+   * Destructuring Array
+     - destructuring array serupa dengan destructuring object, object menggunakan tanda kurung kurawal, sedangkan array menggunakan tanda kurung siku, perbedaan              lainnya adalah destructuring array bekerja berdasarkan posisi daripada penamaan propertinya.
