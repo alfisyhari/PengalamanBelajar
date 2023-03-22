@@ -622,3 +622,10 @@ Belajar Dasar Pemrograman Javascript
    * Destructuring Array
      - destructuring array serupa dengan destructuring object, object menggunakan tanda kurung kurawal, sedangkan array menggunakan tanda kurung siku, perbedaan              lainnya adalah destructuring array bekerja berdasarkan posisi daripada penamaan propertinya.
      - kita juga dapat memilih nilai pada index tertentu untuk destrukturisasi pada array, contohnya ketika ingin mengambil nilai ketiga dari array, kisa bisa                melakukan dengan membiarkan index array yang tidak kita inginkan tetap kosong (tanpa menulis variabel lokal). lebih lanjut, tanda koma tetap diperlukan untuk          menunjukkan posisi index pada array.
+   * Destructuring Assignment
+     - kita juga bisa melakukan destructuring assignment pada array, namun tidak seperti object, kita tidak perlu membungkusnya dengan tanda kurung.
+     - array destructuring assignment sangat berguna ketika kita hendak menukar nilai antara dua variabel, sebelum ES6, untuk melakukan hal ini kita menggunakan cara          manual menggunakan algoritma sorting.
+     - dengan array destructuring assignment, kita bisa menukar nilai variabel dengan mudah tanpa membuat variabel tambahan.
+   * Default Values
+     - ketika melakukan destructuring array, tetapi terdapat variabel yang posisinya tidak dapat terjangkau oleh array, maka variabel tersebut akan bernilai undefined.
+     - sama seperti object, pada destructuring array kita juga dapat memberikan nilai default pada variabel yang tidak dapat terjangkau oleh array, sehingga nilai pada        variabel tidak akan menjadi undefined.
