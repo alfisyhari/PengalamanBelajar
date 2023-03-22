@@ -607,4 +607,11 @@ Belajar Dasar Pemrograman Javascript
    * Spread Operator merupakan fitur yang digunakan untuk menyebarkan nilai array atau lebih tepatnya iterable object menjadi beberapa elemen, spread operator              dituliskan dengan tiga titik.
      - cara penulisannya adalah menggunakan ...(nama variabel).
    * Destructuring Object & Array
-     - iterasi object dan array adalahd dua hal yang paling banyak digunakan dalam mengelola data di JavaScript .JSON (JavaScript Object Notation) merupakan format            data paling populer yang digunakan dalam transaksi data saat ini.
+     - iterasi object dan array adalah dua hal yang paling banyak digunakan dalam mengelola data di JavaScript .JSON (JavaScript Object Notation) merupakan format            data paling populer yang digunakan dalam transaksi data saat ini.
+
+**Selasa, 21 Maret 2023**
+Belajar Dasar Pemrograman Javascript
+   * Destructuring Object & Array
+     - penulisan sintaksis destructuring object pada ES6 menggunakan object literal ( {} ) di sisi kiri dari operator assignment.
+   * Destructuring Assignment
+     - pada destructuring assigment perlu menuliskan destructuring object di dalam tanda kurung, jika tidak javascript akan menganggapnya sebagai block statement.
