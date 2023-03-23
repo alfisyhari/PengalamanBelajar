@@ -666,3 +666,8 @@ Belajar Dasar Pemrograman Javascript
       - function dapat menghasilkan output atau mengembalikan sebuah nilai, dengan nilai kembalian, kita dapat membuat function yang berfungsi untuk melakukan                 perhitungan matematika dan hasilnya dapat kita masukkan ke dalam sebuah variabel.
       - agar fungsi bisa mengembalikan nilai, gunakan keyword return diikuti dengan nilai yang akan dikembalikan. nilai kembalian tidak hanya number, bisa juga berupa         string, boolean, object, array, atau tipe yang lain.
       - yang perlu diperhatikan, ketika statement return tereksekusi, maka fungsi akan langsung terhenti dan mengembalikan nilai.
+    * Expression Function
+      - expression adalah kode atau instruksi yang mengembalikan nilai, sehingga expression function bisa disimpan dalam sebuah variabel.
+      - pada expression function umumnya kita tidak perlu menuliskan nama fungsinya. fungsi yang tidak bernama juga disebut sebagai anonymous function.
+     * Function Parameter
+      - jika parameter dari fungsi adalah sebuah object, kita juga bisa memanfaatkan destructuring object untuk mendapatkan nilainya.
