@@ -669,5 +669,12 @@ Belajar Dasar Pemrograman Javascript
     * Expression Function
       - expression adalah kode atau instruksi yang mengembalikan nilai, sehingga expression function bisa disimpan dalam sebuah variabel.
       - pada expression function umumnya kita tidak perlu menuliskan nama fungsinya. fungsi yang tidak bernama juga disebut sebagai anonymous function.
-     * Function Parameter
+    * Function Parameter
       - jika parameter dari fungsi adalah sebuah object, kita juga bisa memanfaatkan destructuring object untuk mendapatkan nilainya.
+
+**Kamis, 23 Maret 2023**
+Belajar Dasar Pemrograman Javascript
+    * Default Parameter
+      - fungsi pada javascript tidak melakukan pengecekan terhadap jumlah maupun tipe argumen yang dimasukkan ke dalam parameter, ini berarti kita bisa memasukkan             argumen meskipun tidak sesuai dengan parameter yang telah di definisikan.
+    * Rest Parameter
+      - rest parameter juga dituliskan menggunakan three consecutive dots (...), dengan rest parameter, kita dapat menggabungkan beberapa elemen menjadi satu array.
