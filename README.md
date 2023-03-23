@@ -678,3 +678,6 @@ Belajar Dasar Pemrograman Javascript
       - fungsi pada javascript tidak melakukan pengecekan terhadap jumlah maupun tipe argumen yang dimasukkan ke dalam parameter, ini berarti kita bisa memasukkan             argumen meskipun tidak sesuai dengan parameter yang telah di definisikan.
     * Rest Parameter
       - rest parameter juga dituliskan menggunakan three consecutive dots (...), dengan rest parameter, kita dapat menggabungkan beberapa elemen menjadi satu array.
+    * Arrow Function
+      - arrow function hanya berupa expression function, itu sebabnya arrow function memiliki nama lengkap "arrow function expression".
+      - pada arrow function tidak perlu menuliskan keyword function setiap membuat fungsi, tetap menuliskan parameter di dalam tanda kurung lalu diikuti dengan tanda           panah sebelum kurung kurawal.
