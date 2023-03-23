@@ -658,3 +658,8 @@ Belajar Dasar Pemrograman Javascript
       - fungsi dapat digunakan sebagai blok kode atau prosedur yang dapat digunakan secara berulang.
       - semua fungsi memiliki struktur yang sama, fungsi di deklarasikan dengan keyword function dan nama fungsinya.
       - fungsi selalu diikuti dengan tanda kurung (parentheses) tanpa spasi, lalu terdapat sepasang kurung kurawal yang berisi logika dari fungsi tersebut.
+      - dalam tanda kurung kita membutuhkan informasi tambahan yang disebut dengan parameter.
+      - parameter merupakan data yang digunakan pada fungsi untuk diproses di dalamnya.
+    * Parameter & Argument
+      - parameter merupakan variabel yang didefinisikan sebagai inputan dari fungsi.
+      - argument merupakan nilai atau expression yang dimasukkan ke dalam fungsi.
