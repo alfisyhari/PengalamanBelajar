@@ -664,3 +664,4 @@ Belajar Dasar Pemrograman Javascript
       - parameter merupakan variabel yang didefinisikan sebagai inputan dari fungsi.
       - argument merupakan nilai atau expression yang dimasukkan ke dalam fungsi.
       - function dapat menghasilkan output atau mengembalikan sebuah nilai, dengan nilai kembalian, kita dapat membuat function yang berfungsi untuk melakukan                 perhitungan matematika dan hasilnya dapat kita masukkan ke dalam sebuah variabel.
+      - agar fungsi bisa mengembalikan nilai, gunakan keyword return diikuti dengan nilai yang akan dikembalikan. nilai kembalian tidak hanya number, bisa juga berupa         string, boolean, object, array, atau tipe yang lain.
