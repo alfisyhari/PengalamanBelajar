@@ -663,3 +663,4 @@ Belajar Dasar Pemrograman Javascript
     * Parameter & Argument
       - parameter merupakan variabel yang didefinisikan sebagai inputan dari fungsi.
       - argument merupakan nilai atau expression yang dimasukkan ke dalam fungsi.
+      - function dapat menghasilkan output atau mengembalikan sebuah nilai, dengan nilai kembalian, kita dapat membuat function yang berfungsi untuk melakukan                 perhitungan matematika dan hasilnya dapat kita masukkan ke dalam sebuah variabel.
