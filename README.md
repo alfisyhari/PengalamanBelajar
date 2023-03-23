@@ -648,8 +648,13 @@ Belajar Dasar Pemrograman Javascript
      - WeakMap memiliki method get(), set(), has(), dan delete(). namun WeakMap tidak termasuk kategori iterable sehingga tidak memiliki method keys(), values(), atau        forEach().
      - WeakMap juga tidak memiliki property size, ini karena ukuran WeakMap dapat berubah karena proses garbage collection.
      - setTimeout merupakan fungsi yang digunakan untuk menunda eksekusi kode yang ada di dalamnya hingga jangka waktu yang ditetapkan.
-    * Menonton video modul 3 struktur data.
+   * Menonton video modul 3 struktur data.
 
 **Rabu, 22 Maret 2023**
 Belajar Dasar Pemrograman Javascript
     * Pengenalan Function
+    * Declaring Function
+      - fungsi dalam pemrograman digunakan untuk menghasilkan output berdasarkan input tertentu.
+      - fungsi dapat digunakan sebagai blok kode atau prosedur yang dapat digunakan secara berulang.
+      - semua fungsi memiliki struktur yang sama, fungsi di deklarasikan dengan keyword function dan nama fungsinya.
+      - fungsi selalu diikuti dengan tanda kurung (parentheses) tanpa spasi, lalu terdapat sepasang kurung kurawal yang berisi logika dari fungsi tersebut.
