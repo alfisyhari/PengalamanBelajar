@@ -681,3 +681,12 @@ Belajar Dasar Pemrograman Javascript
     * Arrow Function
       - arrow function hanya berupa expression function, itu sebabnya arrow function memiliki nama lengkap "arrow function expression".
       - pada arrow function tidak perlu menuliskan keyword function setiap membuat fungsi, tetap menuliskan parameter di dalam tanda kurung lalu diikuti dengan tanda           panah sebelum kurung kurawal.
+      - ketika body dari function hanya terdiri dari satu baris, kita bisa menghapus tanda kurung kurawal, tentunya dapat menghemat baris kode yang ditulis.
+      - ketika sebuah fungsi perlu mengembalikan nilai, kita tidak perlu lagi menuliskan return(hanya bekerja untuk satu baris).
+    * Variable Scope
+      - variable yang dapat diakses dari seluruh script disebut "globally scoped".
+      - variable yang dapat diakses hanya pada fungsi tertentu disebut dengan "locally scoped".
+      - variable javascript menggunakan fungsi untuk mengelola cakupannya. jika variabel didefinisikan di luar fungsi, maka variabel tersebut bersifat global.
+      - jika variabel di definisikan di dalam fungsi, maka variabel bersifat lokal dan cakupannya hanya pada fungsi tersebut beserta turunannya.
+      - perlu kita perhatikan, jika kita lupa menuliskan keyword let, const, atau var pada script ketika membuat sebuah variabel, maka variabel itu akan menjadi               global.
+      - sebisa mungkin kita harus menghindari pembuatan variabel global, karena variabel global dapat diakses pada seluruh script yang dituliskan, semakin banyak               variabel global yang kita tuliskan, semakin tinggi kemungkinan tabrakan (collision) terjadi.
