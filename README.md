@@ -690,3 +690,7 @@ Belajar Dasar Pemrograman Javascript
       - jika variabel di definisikan di dalam fungsi, maka variabel bersifat lokal dan cakupannya hanya pada fungsi tersebut beserta turunannya.
       - perlu kita perhatikan, jika kita lupa menuliskan keyword let, const, atau var pada script ketika membuat sebuah variabel, maka variabel itu akan menjadi               global.
       - sebisa mungkin kita harus menghindari pembuatan variabel global, karena variabel global dapat diakses pada seluruh script yang dituliskan, semakin banyak               variabel global yang kita tuliskan, semakin tinggi kemungkinan tabrakan (collision) terjadi.
+    * Closure
+      - suatu fungsi yang dapat mengakses variabel di dalam lexical scopenya disebut sebagai closure.
+      - lexical scope berarti pada sebuah fungsi bersarang, fungsi yang berada di dalam memiliki akses ke variabel di lingkup induknya.
+      - closure memungkinkan kita membuat fungsi dan variabel seolah menjadi private method.
