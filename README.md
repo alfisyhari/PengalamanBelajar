@@ -706,3 +706,8 @@ Belajar Dasar Pemrograman Javascript
       - JavaScript bukanlah class-based language, melainkan prototype-based language.
     * Constructor Function
       - Object blueprint dapat dibuat dengan menggunakan constructor function.
+      - Penamaan fungsi yang merupakan constructor function, secara konvensi harus ditulis dengan huruf kapital. Hal ini penting untuk anda ikuti guna membedakan               fungsi biasa dengan constructor function karena penggunaannya berbeda.
+      - Constructor function dapat memanfaatkan keyword this yang bernilai objek (instance) dirinya sendiri. Keyword this dapat dimanfaatkan untuk mengakses nilai             properti atau method dari objek tersebut. Contoh menggunakan keyword this untuk menetapkan nilai properti brand dari argumen fungsi.
+      - Constructor function memiliki internal property bernama prototype. Properti ini digunakan untuk mendefinisikan method-method yang akan dimiliki oleh objek yang         dibuat. Alasan method perlu didefinisikan di dalam prototype agar mudah untuk diwarisi ketika melakukan pewarisan.
+      - Fungsi mengembalikan sebuah objek, kita harus memanggilnya dengan menambahkan keyword New.
+      - Perlu diingat bahwa constructor function hanya dapat dibuat dengan reguler function. Kita tidak dapat membuat constructor function dengan arrow function. Arrow         function tidak dapat dipanggil dengan keyword new.
