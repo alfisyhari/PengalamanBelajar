@@ -711,3 +711,6 @@ Belajar Dasar Pemrograman Javascript
       - Constructor function memiliki internal property bernama prototype. Properti ini digunakan untuk mendefinisikan method-method yang akan dimiliki oleh objek yang         dibuat. Alasan method perlu didefinisikan di dalam prototype agar mudah untuk diwarisi ketika melakukan pewarisan.
       - Fungsi mengembalikan sebuah objek, kita harus memanggilnya dengan menambahkan keyword New.
       - Perlu diingat bahwa constructor function hanya dapat dibuat dengan reguler function. Kita tidak dapat membuat constructor function dengan arrow function. Arrow         function tidak dapat dipanggil dengan keyword new.
+    * Sintaks Class di ES6
+      - Sintaks JavaScript modern (ES6) menawarkan cara membuat constructor function dengan menggunakan keyword class. Hal ini membuat penerapan OOP di JavaScript             mirip seperti bahasa pemrograman berbasis class.
+      - JavaScript hanyalah syntactic sugar atau cara alternatif dalam mendefinisikan constructor function.
