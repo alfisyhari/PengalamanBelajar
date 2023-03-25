@@ -716,3 +716,6 @@ Belajar Dasar Pemrograman Javascript
       - JavaScript hanyalah syntactic sugar atau cara alternatif dalam mendefinisikan constructor function.
     * Properti dan Method
       - Properti merupakan bagian dari class yang mendefinisikan nilai-nilai yang terkandung dalam sebuah instance class.
+      - Namun adakalanya nilai properti juga bisa di definisikan di dalam class itu sendiri.
+    * Properti Getter dan Setter
+      - Properti di dalam sebuah instance class bersifat mutable atau dapat diubah nilainya
