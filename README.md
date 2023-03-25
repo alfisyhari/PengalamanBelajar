@@ -714,3 +714,5 @@ Belajar Dasar Pemrograman Javascript
     * Sintaks Class di ES6
       - Sintaks JavaScript modern (ES6) menawarkan cara membuat constructor function dengan menggunakan keyword class. Hal ini membuat penerapan OOP di JavaScript             mirip seperti bahasa pemrograman berbasis class.
       - JavaScript hanyalah syntactic sugar atau cara alternatif dalam mendefinisikan constructor function.
+    * Properti dan Method
+      - Properti merupakan bagian dari class yang mendefinisikan nilai-nilai yang terkandung dalam sebuah instance class.
