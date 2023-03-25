@@ -694,3 +694,10 @@ Belajar Dasar Pemrograman Javascript
       - suatu fungsi yang dapat mengakses variabel di dalam lexical scopenya disebut sebagai closure.
       - lexical scope berarti pada sebuah fungsi bersarang, fungsi yang berada di dalam memiliki akses ke variabel di lingkup induknya.
       - closure memungkinkan kita membuat fungsi dan variabel seolah menjadi private method.
+
+**Jum'at, 24 Maret 2023**
+Belajar Dasar Pemrograman Javascript
+    * Pengantar Object-Oriented Programming di Javascript
+      - Object-Oriented Programming merupakan salah satu paradigma dalam pemrograman yang berfokus pada pembuatan sebuah objek dan interaksi objek-objek tersebut. Di           OOP, objek merupakan sebuah entitas yang terdiri dari dua hal, yakni properties dan methods.
+      - Properti merupakan nilai dari sebuah objek yang menyimpan informasi tentang objek tersebut.
+      - Method merupakan fungsi yang menggambarkan aksi yang dapat dilakukan oleh objek tersebut.
