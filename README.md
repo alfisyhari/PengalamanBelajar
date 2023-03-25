@@ -701,3 +701,4 @@ Belajar Dasar Pemrograman Javascript
       - Object-Oriented Programming merupakan salah satu paradigma dalam pemrograman yang berfokus pada pembuatan sebuah objek dan interaksi objek-objek tersebut. Di           OOP, objek merupakan sebuah entitas yang terdiri dari dua hal, yakni properties dan methods.
       - Properti merupakan nilai dari sebuah objek yang menyimpan informasi tentang objek tersebut.
       - Method merupakan fungsi yang menggambarkan aksi yang dapat dilakukan oleh objek tersebut.
+      - OOP menawarkan sebuah solusi yakni dengan membuat object blueprint, melalui object blueprint kita bisa membuat cetakan untuk membuat objek yang sudah                   terdefinisikan macam-macam properti dan methodnya. Sehingga kita cukup menggunakan cetakan tersebut untuk membuat objek yang serupa, tetapi kita bisa                   menentukan nilai-nilai properti yang berbeda.
