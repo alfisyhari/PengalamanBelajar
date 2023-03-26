@@ -750,3 +750,5 @@ Belajar Dasar Pemrograman Javascript
       - Pada JavaScript memiliki built in class atau class bawaan seperti Date, Object, Array, Math, dan String.
       - Class bawaan dapat kita manfaatkan untuk berbagai hal, mulai dari manipulasi data-data terkait array, operasi matematika, manipulasi karakter, ataupun                 manipulasi objek.
       - Date merupakan class bawaan JavaScript yang digunakan untuk utilitas terkait tanggal dan waktu. Class ini sangat membantu ketika program yang kita buat                 terdapat penggunaan dan manipulasi tanggal dan waktu. Kita bisa mudah untuk mendapatkan waktu dalam bentuk instance Date atau mengonversinya ke dalam berbagai         format yang kita inginkan.
+      - Array, dengan class array kita bisa menerapkan konsep pewarisan untuk membuat subclass baru yang dapat kita modifikasi sesuai kebutuhan.
+      - Membuat dengan subclass UniqueArray yang mewarisi class Array.
