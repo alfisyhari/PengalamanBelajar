@@ -725,3 +725,11 @@ Belajar Dasar Pemrograman Javascript
       - Method setter harus menerima satu argumen yang nilainya diambil dari operand ke dua ketika melakukan assignment operator.
     * Method 
       - Method adalah sebuah fungsi yang berada di dalam sebuah class dan dapat diakses melalui instance Class tersebut. Method biasanya mengindikasikan hal yang dapat         dilakukan oleh sebuah class.
+      - Argumen direction dan delay untuk menetapkan arah dan waktu delay dalam menjalankan method.
+      - Method juga dapat memiliki akses ke nilai properti atau method lainnya melalui keyword this.
+    * Member Visibility
+      - Bisa disebut sebagai hak akses pada sebuah properti dan method di dalam class.
+      - Javascript versi ES2022 mengenalkan cara dalam menetapkan hak akses private pada properti dan method objek, yakni dengan menambahkan tanda # di awal penamaan           method.
+    * Pewarisan
+      - Dengan konsep inheritance, kita bisa mewariskan sifat-sifat yang berada di dalam sebuah class ke class lain. Konsep inheritance cocok ketika ingin membuat             objek yang mirip dan memiliki sedikit perbedaan.
+      - Implementasinya, kita tampung seluruh sifat yang 'sama' pada sebuah class induk (superclass) dan sifat tersebut nantinya diwarisi kepada class yang dibawahnya         (subclass). Kemudian pada subclass, kita menambahkan kemampuan lain yang lebih spesifik.
