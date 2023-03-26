@@ -723,3 +723,5 @@ Belajar Dasar Pemrograman Javascript
       - Nilai yang didapatkan dari properti tersebut dikontrol oleh method get dan cara menetapkan nilai tersebut dikontrol oleh method set.
       - Method getter harus mengembalikan sebuah nilai dan nilai tersebut akan menjadi nilai properti.
       - Method setter harus menerima satu argumen yang nilainya diambil dari operand ke dua ketika melakukan assignment operator.
+    * Method 
+      - Method adalah sebuah fungsi yang berada di dalam sebuah class dan dapat diakses melalui instance Class tersebut. Method biasanya mengindikasikan hal yang dapat         dilakukan oleh sebuah class.
