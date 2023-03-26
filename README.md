@@ -721,3 +721,5 @@ Belajar Dasar Pemrograman Javascript
       - Data Property merupakan properti yang langsung menampung sebuah nilai di dalam sebuah objek.
       - Accessor Property merupakan properti yang dikontrol oleh sebuah getter dan setter.
       - Nilai yang didapatkan dari properti tersebut dikontrol oleh method get dan cara menetapkan nilai tersebut dikontrol oleh method set.
+      - Method getter harus mengembalikan sebuah nilai dan nilai tersebut akan menjadi nilai properti.
+      - Method setter harus menerima satu argumen yang nilainya diambil dari operand ke dua ketika melakukan assignment operator.
