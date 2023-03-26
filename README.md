@@ -752,3 +752,9 @@ Belajar Dasar Pemrograman Javascript
       - Date merupakan class bawaan JavaScript yang digunakan untuk utilitas terkait tanggal dan waktu. Class ini sangat membantu ketika program yang kita buat                 terdapat penggunaan dan manipulasi tanggal dan waktu. Kita bisa mudah untuk mendapatkan waktu dalam bentuk instance Date atau mengonversinya ke dalam berbagai         format yang kita inginkan.
       - Array, dengan class array kita bisa menerapkan konsep pewarisan untuk membuat subclass baru yang dapat kita modifikasi sesuai kebutuhan.
       - Membuat dengan subclass UniqueArray yang mewarisi class Array.
+    * Paradigma Functional Programming
+      - Paradigma Functional Programming adalah paradigma pemrograman dimana proses komputasi didasarkan pada fungsi matematika murni.
+      - Gaya imperatif adalah salah satu gaya penulisan kode yang masih manual.
+      - Gaya deklaratif adalah salah satu gaya penulisan kode yang mudah dibaca dan ringkas.
+    * Konsep-Konsep Functional Programming
+      - Pure Function adalah konsep dari pembuatan fungsi yang mengharuskan fungsi untuk tidak bergantung terhadap nilai yang berada diluar fungsi atau parameternya.           Sehingga mau seperti apa pun keadaannya, fungsi yang dibuat selalu menghasilkan sesuatu yang sama, terkecuali bila fungsi tersebut diberikan nilai parameter           yang berbeda. Pure Function juga dilarang keras untuk mengubah nilai yang berada di luar baik secara sengaja atau tidak sengaja. Pure Function tidak boleh             menimbulkan efek samping (no side effect) ketika digunakan.
