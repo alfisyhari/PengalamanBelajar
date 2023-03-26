@@ -718,4 +718,6 @@ Belajar Dasar Pemrograman Javascript
       - Properti merupakan bagian dari class yang mendefinisikan nilai-nilai yang terkandung dalam sebuah instance class.
       - Namun adakalanya nilai properti juga bisa di definisikan di dalam class itu sendiri.
     * Properti Getter dan Setter
-      - Properti di dalam sebuah instance class bersifat mutable atau dapat diubah nilainya
+      - Data Property merupakan properti yang langsung menampung sebuah nilai di dalam sebuah objek.
+      - Accessor Property merupakan properti yang dikontrol oleh sebuah getter dan setter.
+      - Nilai yang didapatkan dari properti tersebut dikontrol oleh method get dan cara menetapkan nilai tersebut dikontrol oleh method set.
