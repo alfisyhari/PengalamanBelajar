@@ -733,3 +733,16 @@ Belajar Dasar Pemrograman Javascript
     * Pewarisan
       - Dengan konsep inheritance, kita bisa mewariskan sifat-sifat yang berada di dalam sebuah class ke class lain. Konsep inheritance cocok ketika ingin membuat             objek yang mirip dan memiliki sedikit perbedaan.
       - Implementasinya, kita tampung seluruh sifat yang 'sama' pada sebuah class induk (superclass) dan sifat tersebut nantinya diwarisi kepada class yang dibawahnya         (subclass). Kemudian pada subclass, kita menambahkan kemampuan lain yang lebih spesifik.
+    * Operator intanceof
+      - Operator instanceof digunakan untuk mengetes sebuah objek berdasarkan prototype dari constructor function atau class tertentu.
+      - Operator instanceof mengembalikan boolean, operasinya akan menghasilkan nilai true jika objek yang di tes (operand pertama) memiliki prototype yang merupakan           operand kedua. Jika prototype operand pertama bukanlah operand kedua, operasinya akan menghasilkan nilai false.
+      - Operator instanceof juga akan mengecek prototype secara berantai. Artinya, instanceof juga mengecek hingga prototype yang diwarisi oleh objek tersebut.
+    * Overriding
+      - Overriding di dalam OOP merupakan fitur yang memperbolehkan subclass mendefinisikan implementasinya sendiri pada sebuah method yang sebenarnya sudah                   didefinisikan pada superclassnya.
+    * Constructor Overriding
+      - Constructor merupakan method spesial pada class yang akan dipanggil pada saat pembuatan instance, lebih tepatnya ketika menggunakan keyword new diikuti dengan         class.
+      - method super() artinya memanggil constructor superclass.
+    * Method Overriding
+      - Method overriding biasanya dilakukan ketika kita ingin mengubah implementasi method warisan superclass.
+    * Object Composition
+      - method Object.assign() digunakan untuk mengomposisikan objek.
